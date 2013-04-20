@@ -1,0 +1,16 @@
+---
+layout: base
+title: Post Archives
+---
+
+<table class="table table-hover table-striped">
+
+{% for post in site.posts %}
+<tr>
+            <th><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></th>
+            <th><span class="date"><i class="icon-calendar"></i><time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time></span></th>
+</tr>
+{% endfor %}
+
+</table>
+
