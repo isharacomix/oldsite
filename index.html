@@ -3,23 +3,18 @@ layout: base
 title: Barry Peddycord III
 ---
 
+{% for post in site.posts limit: 5 %}
 <article>
 
-<p>Welcome to my little corner of the Internet. Sorry if things look a little strange at the moment, I'm currently in the process of overhauling my online portfolios and migrating them to Github. Pardon the mess while I get things organized.</p>
+        <header>
+            <h2><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h2>
+            <span class="date"><i class="icon-clock"></i><time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time></span><br/>
+            <span class="category"><i class="icon-tag"></i> {{ post.categories | category_links }}</span><br/>
+            <span class="author"><i class="icon-user"></i> {% if post.author %}{{post.author}}{% else %}{{site.author}}{% endif%}</span>
+        </header>
 
-<h3>About Me</h3>
-
-<p>I'm a Ph.D. student in Computer Science at <a href="http://ncsu.edu">North Carolina State University</a>. My research is focused on using computational techniques to learn more about how people learn... especially when it comes to how they learn about computers. Right now, my big research project is <a href="http://8bitmooc.org">#8bitmooc</a>, an online course on NES Game Development.</p>
-
-<h3>Interested in my work?</h3>
-
-<ul>
-<li><a href="http://teaching.isharacomix.org">Teaching</a></li>
-<li><a href="http://research.isharacomix.org">Research</a></li>
-<li><a href="http://blog.isharacomix.org">Nonsense</a></li>
-</ul><h3>Need to get a hold of me?</h3>
-
-<p>The easiest way by far to get a hold of me is to get my attention on Twitter. I go by the handle <a href="http://twitter.com/isharacomix">@isharacomix</a>, and that's a faster way to reach me than by e-mail. You can also ask me a question on my <a href="http://blog.isharacomix.org/ask">Tumblr</a> if you don't do the Twitter.</p>
+<div class="entry">{{ post.excerpt }}</div>
 
 </article>
+{% endfor %}
 
