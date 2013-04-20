@@ -1,19 +1,20 @@
 ---
 layout: base
-title: Barry Peddycord III
+title: Home
 ---
 
 {% for post in site.posts limit: 5 %}
 <article>
 
-        <header>
+    <div>
             <h2><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h2>
-            <span class="date"><i class="icon-calendar"></i><time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time></span><br/>
-        </header>
+            <span class="date"><i class="icon-calendar"></i><time datetime="{{post.date|date:"%F"}}">Posted {{post.date|date:"%b %d, %Y"}}</time></span><br/>
+    </div>
 
     <div class="entry">{{ post.content | markdownify }}</div>
 
 </article>
+<hr />
 {% endfor %}
 
 <div>
