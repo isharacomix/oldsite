@@ -12,13 +12,15 @@
 
     <body class="with-navbar">
         <div class="container container-main">
-            <div>INCLUDE NAVBAR.HTML</div>
+            <div class="row">
+                {% include banner.html %}
+            </div>
 
             <div class="row">
-                <div class="span2">
-                    SIDBAR YO
+                <div class="offset2 span2">
+                    {% include sidebar.html %}
                 </div>
-                <div class="span10">
+                <div class="span6">
                     {{ content }}
                 </div>
             </div>
@@ -26,7 +28,7 @@
             <hr>
 
             <footer class="row">
-                <div>{% include footer.html %}</div>
+                {% include footer.html %}
             </footer>
         </div>
 
