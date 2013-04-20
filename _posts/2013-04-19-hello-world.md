@@ -4,7 +4,7 @@ title: Hello World
 ---
 
 Hello, world! Welcome to my new blog, powered by the magic of
-[GitHub pages](pages.github.com) and [Jekyll](https://github.com/mojombo/jekyll).
+[GitHub pages](http://pages.github.com) and [Jekyll](https://github.com/mojombo/jekyll).
 This marks the second time I've switched blogging platforms this year, but I
 think I like this best of all, even if the website looks terribly hideous at the
 moment.
