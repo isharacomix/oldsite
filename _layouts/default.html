@@ -14,19 +14,12 @@
         <div class="container container-main">
             <div>INCLUDE NAVBAR.HTML</div>
 
-            <div class="row">
-                <div class="span2">
-                    SIDBAR YO
-                </div>
-                <div class="span10">
-                    {{ content }}
-                </div>
-            </div>
+            {{ content }}
 
             <hr>
 
             <footer class="row">
-                <div>INCLUDE FOOTER.HTML</div>
+                {% include footer.html %}
             </footer>
         </div>
 
