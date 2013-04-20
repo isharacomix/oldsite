@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-tags: fun, turtles
+categories: fun, turtles
 ---
 
 {{ page.title }}
