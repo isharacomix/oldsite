@@ -55,7 +55,7 @@ will be a required literacy for all of my future students.
 
 However, that's a bit down the road. For now, I've set up two new Github projects
 to maintain my [Teaching](http://teaching.isharacomix.org) and
-[Researc](http://research.isharacomix.org) portfolios. The especially cool part
+[Research](http://research.isharacomix.org) portfolios. The especially cool part
 about having a teaching portfolio in Github is that the website serves as a
 polished presentation format for the portfolio, but has the option to download
 the complete portfolio (maintained in its project repository) as an archive.
