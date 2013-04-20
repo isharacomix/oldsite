@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Hello World
+tags: fun, turtles
 ---
 
 {{ page.title }}
 ================
 
-Hello world! I am the world and I say hello. HELLO!
 
