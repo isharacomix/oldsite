@@ -86,6 +86,7 @@ Service and Leadership
 Presentations and Talks
 -----------------------
 
+ * *I am not a Computer Scientist: Talking about Interdisciplinary Research*, [Women in Computer Science](http://ncsu.orgsync.com/org/wics/) Symposium, April 26, 2013
  * *[AP Computer Science Principles Resource Development]({{site.baseurl}}/files/stars_poster_bjc_moodle.pdf)*, [STARS](http://stars.csc.ncsu.edu) poster session, April 23, 2012
  * *The Inverted-Lecture Model: A Case Study in Computer Architecture,* paper presentation at [SIGCSE 2013](http://www.sigcse.org/sigcse2013/), Friday, March 8, 2013.
  * *[If MOOCs are the Cathedral, What is the Bazaar?]({{site.baseurl}}/files/moocbazaar_lilly2013.pdf)*, presentation at [Lilly South](http://lilly.uncg.edu), February 15, 2013
