@@ -68,6 +68,7 @@ Teaching Experience
 Service and Leadership
 ----------------------
 
+ * [Triangle Linux Users Group](http://trilug.org), Steering Committee, since May 2013
  * [IEEE Eastern NC Section Executive Committee](http://sites.ieee.org/encs/), Secretary, since January 2013
  * [IEEE Eastern NC Section Computer Society Chapter](http://sites.ieee.org/encs/computer), Chair, since January 2013
  * [NC State Linux Users Group](http://lug.ncsu.edu), President, since Spring 2013
