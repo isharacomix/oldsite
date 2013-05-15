@@ -16,6 +16,7 @@ North Carolina State University
 Education
 ---------
  * Currently Pursuing Ph.D. in Computer Science
+ * M.Sc., Computer Science, 2013, NC State University (GPA 3.78/4.00)
  * B.Sc., Computer Science, 2011, NC State University (GPA 3.62/4.00, *Magna Cum Laude*)
  * High School Diploma, 2008, Ronald Wilson Reagan High School, Pfafftown, NC (GPA 3.73/4.00)
 
@@ -23,7 +24,6 @@ Education
 
 Employment
 ----------
-
  * Teaching Assistant, August 2012 - Present, NC State University, Department of Computer Science
  * Research Assistant under [Dr. Peng Ning](http://discovery.csc.ncsu.edu/), May 2011 - August 2012, NC State University, Department of Computer Science
  * EOS Computer Lab Help Desk, June 2011 - August 2011, NC State University, [Information Technology and Engineering Computer Services](http://www.itecs.ncsu.edu/)
