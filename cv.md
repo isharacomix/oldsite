@@ -33,7 +33,7 @@ Employment
 
 Refereed Publications
 ---------------------
-
+ * Edward Gehringer, **Barry Peddycord III**. "Grading by Experience Points: A Case Study from Computer Ethics." Accepted for publication in *Proceedings of the 43rd IEEE Frontiers in Eduction Conference (FIE '13)*.
  * Edward Gehringer, **Barry Peddycord III**. "Teaching Strategies When Students Have Access to Solution Manuals." To appear in *Proceedings of the 2013 ASEE Annual Conference*.
  * Edward Gehringer, **Barry Peddycord III**. "[The Inverted-Lecture Model: A Case Study in Computer Architecture](http://db.grinnell.edu/sigcse/sigcse2013/Program/viewAcceptedProposal.pdf?sessionType=paper&amp;sessionNumber=118)" *[Proceedings of the 44th ACM Technical Symposium on Computer Science Education (SIGCSE '13)](http://www.sigcse.org/sigcse2013/)*, Pages 489-494, March 2013.
  * Edward Gehringer, **Barry Peddycord III**. "Experience with online and Open-Web Exams". To appear in *[Journal of Instructional Research](http://cirt.gcu.edu/research/jir)*, 2013 volume.
@@ -60,7 +60,7 @@ Public Scholarship
 Teaching Experience
 -------------------
 
- * CSC 326: Software Engineering, Lab Instructor, Spring 2013 (2 sections, 25 and 25 students) **- in progress**
+ * CSC 326: Software Engineering, Lab Instructor, Spring 2013 (2 sections, 25 and 25 students)
  * CSC 326: Software Engineering, Lab Instructor, Fall 2012 (2 sections, 12 and 17 students)
 
 
