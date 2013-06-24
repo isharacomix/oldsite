@@ -23,10 +23,12 @@ trying to do "logic" in your view.
 This isn't to say you can't do things like loops: after all, most web pages are
 just lists of content, so you need to be able to do a for loop, right?
 
+    {% raw %}
     {% for s in status_messages %}
       <h3>{{ s.title }}</h3>
       <p>{{ s.content }}</p>
     {% endfor %}
+    {% endraw %}
 
 This is essentially the extent of the complexity needed by any template
 language, right? However, there is this notoriously irritating case with for
