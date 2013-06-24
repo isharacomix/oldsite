@@ -41,6 +41,7 @@ who developed this language gave us this little gem: ```forloop.last```. This
 special variable exists inside of for loops, and returns True if the current
 pass through the loop is the last one.
 
+    {% raw %}
     {% for n in names %}
       {% if forloop.last and not forloop.first %}
         and
@@ -50,6 +51,7 @@ pass through the loop is the last one.
     {% empty %}
        Nobody's here...  
     {% endfor %}
+    {% endraw %}
     
 This is really handy. The naive Python approach is to do the following:
 
