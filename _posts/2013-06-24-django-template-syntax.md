@@ -23,12 +23,6 @@ trying to do "logic" in your view.
 This isn't to say you can't do things like loops: after all, most web pages are
 just lists of content, so you need to be able to do a for loop, right?
 
-    {% raw %}
-    {% for s in status_messages %}
-      <h3>{{ s.title }}</h3>
-      <p>{{ s.content }}</p>
-    {% endfor %}
-    {% endraw %}
 
 This is essentially the extent of the complexity needed by any template
 language, right? However, there is this notoriously irritating case with for
@@ -43,18 +37,6 @@ who developed this language gave us this little gem: ```forloop.last```. This
 special variable exists inside of for loops, and returns True if the current
 pass through the loop is the last one.
 
-    {% raw %}
-    {% for n in names %}
-      {% if forloop.last and not forloop.first %}
-        and
-      {% endif %}
-      
-      {{ n }}{% if not forloop.last %}, {% endif %}
-    {% empty %}
-       Nobody's here...  
-    {% endfor %}
-    {% endraw %}
-    
 This is really handy. The naive Python approach is to do the following:
 
     i = 0
