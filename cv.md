@@ -3,6 +3,8 @@ layout: base
 title: Curriculum Vitae
 ---
 
+<div style="float: right"><img src="/img/barry2013.jpg" /></div>
+
 Curriculum Vitae
 ----------------
 Barry Wayne Peddycord III   
