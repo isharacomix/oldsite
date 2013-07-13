@@ -17,7 +17,7 @@ North Carolina State University
 
 Education
 ---------
- * Currently Pursuing Ph.D. in Computer Science
+ * Currently Pursuing Ph.D. in Computer Science advised by [Ed Gehringer](http://www4.ncsu.edu/~efg/) and [Tiffany Barnes](http://www4.ncsu.edu/~tmbarnes/)
  * M.Sc., Computer Science, 2013, NC State University (GPA 3.78/4.00)
  * B.Sc., Computer Science, 2011, NC State University (GPA 3.62/4.00, *Magna Cum Laude*)
  * High School Diploma, 2008, Ronald Wilson Reagan High School, Pfafftown, NC (GPA 3.73/4.00)
