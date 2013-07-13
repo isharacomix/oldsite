@@ -70,7 +70,7 @@ Teaching Experience
 Service and Leadership
 ----------------------
 
- * [NC State University Graduate Student Association](http://ugsa.ncsu.edu), Electronic Communications Chair, Fall 2013 - Spring 2014
+ * [NC State University Graduate Student Association](http://ugsa.ncsu.edu), Vice President of Communications, Fall 2013 - Spring 2014
  * [Triangle Linux Users Group](http://trilug.org), Steering Committee, since May 2013
  * [IEEE Eastern NC Section Executive Committee](http://sites.ieee.org/encs/), Secretary, since January 2013
  * [IEEE Eastern NC Section Computer Society Chapter](http://sites.ieee.org/encs/computer), Chair, since January 2013
