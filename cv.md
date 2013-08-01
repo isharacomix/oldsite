@@ -54,14 +54,12 @@ Software Releases
 
 Public Scholarship
 ------------------
-
  * **Barry Peddycord III**. "[LISA 2012: What the USENIX Large Installation System Administration conference has going for it](http://opensource.com/education/13/1/LISA-2012-report)". In *[Opensource.com](http://opensource.com)*. January 10, 2013.
 
 
 
 Teaching Experience
 -------------------
-
  * CSC 326: Software Engineering, Lab Instructor, Spring 2013 (2 sections, 25 and 25 students)
  * CSC 326: Software Engineering, Lab Instructor, Fall 2012 (2 sections, 12 and 17 students)
 
@@ -69,7 +67,6 @@ Teaching Experience
 
 Service and Leadership
 ----------------------
-
  * [NC State University Graduate Student Association](http://ugsa.ncsu.edu), Vice President of Communications, Fall 2013 - Spring 2014
  * [Triangle Linux Users Group](http://trilug.org), Steering Committee, since May 2013
  * [IEEE Eastern NC Section Executive Committee](http://sites.ieee.org/encs/), Secretary, since January 2013
@@ -89,7 +86,6 @@ Service and Leadership
 
 Presentations and Talks
 -----------------------
-
  * *Hacking the NES*, [BarCampRDU](http://barcamp.org), May 18, 2013
  * *I am not a Computer Scientist: Talking about Interdisciplinary Research*, [Women in Computer Science](http://ncsu.orgsync.com/org/wics/) Symposium, April 26, 2013
  * *[AP Computer Science Principles Resource Development]({{site.baseurl}}files/stars_poster_bjc_moodle.pdf)*, [STARS](http://stars.csc.ncsu.edu) poster session, April 23, 2012
@@ -114,7 +110,6 @@ Slides are provided if available - please note that unless specifically marked, 
 
 Memberships and Affiliations
 ----------------------------
-
  * [International Artificial Intelligence in Education Society](http://iaied.org), since April 2013
  * [International Educational Data Mining Society](http://educationaldatamining.org/), since April 2013
  * [American Society for Engineering Education](http://www.asee.org), since July 2012
@@ -134,7 +129,6 @@ Memberships and Affiliations
 
 Awards, Recognitions, Certifications
 ------------------------------------
-
  * Nominated for University Graduate Student Association *Outstanding TA Award*, 2013
  * NC State [Preparing Future Leaders "Season Pass"](http://www.ncsu.edu/grad/preparing-future-leaders/season-pass/season-passholders.html), Fall 2011
  * *Upsilon Pi Epsilon* Scholarship, 2011-2012
@@ -145,10 +139,13 @@ Awards, Recognitions, Certifications
  * AP Scholar with Distinction, 2008
 
 
+MOOCs
+-----
+ * [Gamification]({{site.baseurl}}files/mooc_gamification2013.pdf), Kevin Werbach, May 2013
+
 
 Articles Written About Me
 -------------------------
-
  * [NC State Graduate School Spotlight](http://www.ncsu.edu/grad/stories/peddycord.html), August 1, 2012
  * [OpenSource.com Community Spotlight](http://opensource.com/should-be/12/6/community-spotlight-barry-peddycord-iii-phd-student-computer-science), June 26, 2012
 
