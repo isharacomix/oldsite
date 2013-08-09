@@ -52,9 +52,9 @@ at it through the lens of our culture. If I tease out all of the cruft of my
 personal interests and get to the heart of why what I'm doing is possible, it
 comes down to one succint, condescending sentence:
 
-    I can afford to "dabble" in the humanities because I'm a "computer
-    scientist" and my "real job" will keep me secure even if this
-    doesn't work out.
+> I can afford to "dabble" in the humanities because I'm a "computer
+> scientist" and my "real job" will keep me secure even if this
+> doesn't work out.
 
 As a programmer, I don't human very well, so I genuinely believe that interacting
 with humanities scholars can help provide context for my research (since
