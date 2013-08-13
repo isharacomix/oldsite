@@ -44,13 +44,6 @@ Refereed Publications
 PDFs are provided if available - please note that unless specifically marked, the papers are *not* under the [Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/) license that covers the rest of this site.  
 
 
-Posters
--------
- * Veronica Catete, Leslie Keller, **Barry Peddycord III**. *[AP Computer Science Principles Resource Development]({{site.baseurl}}files/stars_poster_bjc_moodle.pdf)*.
- * **Barry Peddycord III**, Tiffany Barnes. *[AP Computer Science Principles Training]({{site.baseurl}}files/stars_poster_bjc_training.pdf)*.
- * **Barry Peddycord III**. *[Identification of Network Service Relationships in Distributed Systems]({{site.baseurl}}files/nsdminer_symposium_poster.pdf)*.
-
-
 Software Releases
 -----------------  
  * **Barry Peddycord III**. *[#8bitmooc](http://github.com/isharacomix/8bitmooc)*. An online course on developing software for the Nintendo Entertainment System (and the associated software platform for delivering it). GNU GPL v3.0.
@@ -111,6 +104,13 @@ Presentations and Talks
  * *OpenBTS - What It Is and What It Can Do*, lightning talk for the [NC State Linux Users Group](http://lug.ncsu.edu), October 4, 2011
 
 Slides are provided if available - please note that unless specifically marked, the papers are *not* under the [Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/) license that covers the rest of this site.
+
+
+Posters
+-------
+ * Veronica Catete, Leslie Keller, **Barry Peddycord III**. *[AP Computer Science Principles Resource Development]({{site.baseurl}}files/stars_poster_bjc_moodle.pdf)*.
+ * **Barry Peddycord III**, Tiffany Barnes. *[AP Computer Science Principles Training]({{site.baseurl}}files/stars_poster_bjc_training.pdf)*.
+ * **Barry Peddycord III**. *[Identification of Network Service Relationships in Distributed Systems]({{site.baseurl}}files/nsdminer_symposium_poster.pdf)*.
 
 
 
