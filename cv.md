@@ -50,8 +50,6 @@ Posters
  * **Barry Peddycord III**, Tiffany Barnes. *[AP Computer Science Principles Training]({{site.baseurl}}files/stars_poster_bjc_training.pdf)*.
  * **Barry Peddycord III**. *[Identification of Network Service Relationships in Distributed Systems]({{site.baseurl}}files/nsdminer_symposium_poster.pdf)*.
 
-PDFs are provided if available - please note that unless specifically marked, the papers are *not* under the [Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/) license that covers the rest of this site.  
-
 
 Software Releases
 -----------------  
