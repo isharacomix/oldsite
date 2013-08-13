@@ -44,6 +44,14 @@ Refereed Publications
 PDFs are provided if available - please note that unless specifically marked, the papers are *not* under the [Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/) license that covers the rest of this site.  
 
 
+Posters
+-------
+ * Veronica Catete, Leslie Keller, **Barry Peddycord III**. *[AP Computer Science Principles Resource Development]({{site.baseurl}}files/stars_poster_bjc_moodle.pdf)*.
+ * **Barry Peddycord III**, Tiffany Barnes. *[AP Computer Science Principles Training]({{site.baseurl}}files/stars_poster_bjc_training.pdf)*.
+ * **Barry Peddycord III**. *[Identification of Network Service Relationships in Distributed Systems]({{site.baseurl}}files/nsdminer_symposium_poster.pdf)*.
+
+PDFs are provided if available - please note that unless specifically marked, the papers are *not* under the [Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/) license that covers the rest of this site.  
+
 
 Software Releases
 -----------------  
@@ -88,7 +96,7 @@ Presentations and Talks
 -----------------------
  * *Hacking the NES*, [BarCampRDU](http://barcamp.org), May 18, 2013
  * *I am not a Computer Scientist: Talking about Interdisciplinary Research*, [Women in Computer Science](http://ncsu.orgsync.com/org/wics/) Symposium, April 26, 2013
- * *[AP Computer Science Principles Resource Development]({{site.baseurl}}files/stars_poster_bjc_moodle.pdf)*, [STARS](http://stars.csc.ncsu.edu) poster session, April 23, 2012
+ * *[AP Computer Science Principles Resource Development]({{site.baseurl}}files/stars_poster_bjc_moodle.pdf)*, [STARS](http://stars.csc.ncsu.edu) poster session, April 23, 2013
  * *The Inverted-Lecture Model: A Case Study in Computer Architecture,* paper presentation at [SIGCSE 2013](http://www.sigcse.org/sigcse2013/), Friday, March 8, 2013.
  * *[If MOOCs are the Cathedral, What is the Bazaar?]({{site.baseurl}}files/moocbazaar_lilly2013.pdf)*, presentation at [Lilly South](http://lilly.uncg.edu), February 15, 2013
  * *[#8bitmooc]({{site.baseurl}}files/8bitmooc_foss2013.pdf)*, presentation at the [NC State FOSS Fair](https://opensource.ncsu.edu/FossFair2013), February 9, 2013
