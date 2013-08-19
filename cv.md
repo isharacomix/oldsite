@@ -85,6 +85,8 @@ Service and Leadership
 
 Presentations and Talks
 -----------------------
+ * *[AP Computer Science Principles Resource Development]({{site.baseurl}}files/stars_poster_bjc_moodle.pdf)*, poster at STARS Celebration 2013, August 16, 2013
+ * *[8-bit Game Programming with the NES]({{site.baseurl}}files/8bitmooc_stars2013.pdf)*, workshop at STARS Celebration 2013, August 16, 2013
  * *Hacking the NES*, [BarCampRDU](http://barcamp.org), May 18, 2013
  * *I am not a Computer Scientist: Talking about Interdisciplinary Research*, [Women in Computer Science](http://ncsu.orgsync.com/org/wics/) Symposium, April 26, 2013
  * *[AP Computer Science Principles Resource Development]({{site.baseurl}}files/stars_poster_bjc_moodle.pdf)*, [STARS](http://stars.csc.ncsu.edu) poster session, April 23, 2013
