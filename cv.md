@@ -3,7 +3,7 @@ layout: base
 title: Curriculum Vitae
 ---
 
-<div style="float: right"><img src="/img/barry2013.jpg" /></div>
+<img class="pull-right" src="{{ site.baseurl }}/img/barry2013.jpg" />
 
 Curriculum Vitae
 ----------------
