@@ -3,7 +3,7 @@ layout: post
 title: Listen to that chicken sizzle!
 ---
 
-<img class="pull-right" width="300" src="{{ site.baseurl }}/img/pic_chicken.jpg" alt="" />
+<img class="pull-left" width="300" src="{{ site.baseurl }}/img/pic_chicken.jpg" alt="" />
 
 This weekend, I did something I've been meaning to do for a long time. I bought some chicken and cooked it myself. And I don't mean TV-Dinner chicken... I bought some actual raw chicken meat and fried it in the grease myself. You know... the way nature intended.
 
