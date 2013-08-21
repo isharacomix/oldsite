@@ -15,5 +15,5 @@ Either way, this makes two good weeks of home-prepared foodstuffs. Next week, I 
 
 In other news, I haven't posted anything else this week because I've been so darn busy. I just can't find the time or energy to sit down and write something. I should really get on the ball and force myself to collect my thoughts into a pseudo-cohesive blog post more often so I can keep this thing running.
 
-![Photo]({{ site.baseurl }}/img/pic_stirfry.jpg)
+![Photo]({{ site.baseurl }}img/pic_stirfry.jpg)
 
