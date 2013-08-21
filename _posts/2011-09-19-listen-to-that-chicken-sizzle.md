@@ -13,5 +13,5 @@ As much fun as cooking was, and as rewarding of an experience it was, I can't sa
 
 So everything worked out OK. The apartment didn't burn down. I'm still alive. All's well that ends well. I think I wanna give lasagna a shot next time~
 
-![Photo]({{ site.baseurl }}img/chicken.jpg)
+![Photo]({{ site.baseurl }}img/pic_chicken.jpg)
 
