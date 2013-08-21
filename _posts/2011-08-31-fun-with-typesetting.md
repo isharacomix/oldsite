@@ -3,7 +3,7 @@ layout: post
 title: Fun with typesetting!
 ---
 
-I didn't post anything on Monday. I wish I could say that I was doing something so interesting that I forgot all about it, but unfortunately, it was just the opposite: going back to school is no longer exciting and I've fallen back into apathetic student mode. Ah well. It was fun while it lasted. But last night, I had the pleasure of doing my first homework assignment using \(\LaTeX\), and it was SO MUCH FUN. Yes, I know that sounds like a ridiculous thing for a person to say, but it's true.
+I didn't post anything on Monday. I wish I could say that I was doing something so interesting that I forgot all about it, but unfortunately, it was just the opposite: going back to school is no longer exciting and I've fallen back into apathetic student mode. Ah well. It was fun while it lasted. But last night, I had the pleasure of doing my first homework assignment using \\(\LaTeX\\), and it was SO MUCH FUN. Yes, I know that sounds like a ridiculous thing for a person to say, but it's true.
 
 This semester, I'm taking a course called *Applied Computational Logic*, which is essentially just a graduate-level course that goes over boolean algebra, conjunctive normal form, natural deduction, and the like. I personally love this sort of thing... every proof is a puzzle, and there's a thrill of discovery and accomplishment when you do the natural deduction at each step, proving beyond a shadow of a doubt that YES, the solution is correct (proving the opposite isn't quite as much fun, I'm afraid).
 
