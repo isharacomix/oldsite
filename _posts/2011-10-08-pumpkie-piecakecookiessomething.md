@@ -9,6 +9,6 @@ First of all, I used waaaaaay too much pumpkin with not nearly enough flour. So 
 
 So now comes the big question. What to fix next? I've been thinking of buying myself one of those countertop grills and maybe fixing some salmon. That would be a really flavorful way to spice up dinnertime, with some actual meat. Even though frying is nice and southern and all, I really can't stand fried and breaded fish, so if I could grill it without all the trouble of actual grilling, that would be so awesome! I could fix fish and maybe some broccoli and rice or something and that would be so very, very delicious.
 
-It's kind of weird how this grad school blog has sort of turned into a cooking blog. Since I can't really talk about unpublished science, I guess I find it more fun to just talk about foodstuffs. Well, that and ham radio. &gt;_&gt;
+It's kind of weird how this grad school blog has sort of turned into a cooking blog. Since I can't really talk about unpublished science, I guess I find it more fun to just talk about foodstuffs. Well, that and ham radio.
 
 ![Photo]({{ site.baseurl }}img/pic_pumpkincake.jpg )
