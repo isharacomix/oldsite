@@ -11,4 +11,4 @@ There's a lot of pushback to this sort of thinking, both from students and teach
 
 Lots of instructors feel as though having a co-learning environment where students are invited to teach one another and take the role of the mentoring undermines the authority of the instructor, but I see that as a fault of the instructors who build up this image of being an infallible source of truth in the first place.
 
-<sub>**1**: Martin Ebner, Conrad Lienhardt, Matthias Rohs, Iris Meyer, [Microblogs in Higher Education – A chance to facilitate informal and process-oriented learning?](http://dx.doi.org/10.1016/j.compedu.2009.12.006), *Computers and Education*, Volume 55, Issue 1, August 2010, Pages 92-100, ISSN 0360-1315.</sub>
+<sub><strong>1</strong>: Martin Ebner, Conrad Lienhardt, Matthias Rohs, Iris Meyer, <a href="http://dx.doi.org/10.1016/j.compedu.2009.12.006">Microblogs in Higher Education – A chance to facilitate informal and process-oriented learning?</a>, <em>Computers and Education</em>, Volume 55, Issue 1, August 2010, Pages 92-100, ISSN 0360-1315.</sub>
