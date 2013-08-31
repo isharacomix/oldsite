@@ -4,7 +4,7 @@ title: Communist Chicken Cheese Cubes
 ---
 
 
-Despite being sick, I still managed to do some epic cooking this week. On Tuesday, I revisited my <a href="http://isharacomix.org/2011/10/16/bourbon-blogs-and-bitter-roommates/">sweet bourbon glaze</a> that I used on salmon, but this time, putting it on some chicken. When I had chicken left over, I wanted to think of something different to do with it, and I decided to try something from <a href="https://vandersg.wordpress.com/2011/11/08/buffalo-chicken-bites/">Time Well Wasted</a> - her "Buffalo Chicken Bites" recipe.
+Despite being sick, I still managed to do some epic cooking this week. On Tuesday, I revisited my <a href="http://isharacomix.org/2011/10/16/bourbon-blogs-and-bitter-roommates">sweet bourbon glaze</a> that I used on salmon, but this time, putting it on some chicken. When I had chicken left over, I wanted to think of something different to do with it, and I decided to try something from <a href="https://vandersg.wordpress.com/2011/11/08/buffalo-chicken-bites/">Time Well Wasted</a> - her "Buffalo Chicken Bites" recipe.
 
 So the adventure started by finding out how to make dough. As it turns out, I happen to be an idiot, because I completely forgot that the thing that makes bread different from cookies and cakes is a little thing called yeast. So I headed to the grocery store to find some, and I swear, I walked past it about ten times before I figured out where they were. Apparently, yeast is sold in single-serving packets rather than in big bags like flour, so I had my eyes out on the wrong thing, it seems. I was about to do a "from-scratch" recipe I found online to make my dough, but I bumped into some "pizza yeast", which turned out to be just the thing I needed for this recipe.
 
