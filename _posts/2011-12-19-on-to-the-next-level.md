@@ -16,3 +16,6 @@ Going into next semester, I'm taking another full course load - I'll be tackling
 I'm very pleased that despite all of this work, I've made it a point to have some kind of a social life. I've been going out and running at the gym, and having dinner with friends every week or so, keeping in touch with the folks that I graduated with - who left the University behind to pursue "real" jobs and make "real" money.
 
 In celebration of this, I decided to buy myself a Christmas present that I've been wanting for a long time - I got myself a scanner, so that I can doodle and upload sketches on demand without having to take a detour to the library. Hopefully I'll have more pictures to upload to go along with my blarg entries now, even if they are just random doodles that exist to add some spice to the walls of text I post.
+
+![Photo]({{ site.baseurl }}img/drawing_a_minus.png)
+
