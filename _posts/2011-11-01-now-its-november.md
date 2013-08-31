@@ -3,7 +3,7 @@ layout: post
 title: Now it's November...
 ---
 
-I can't believe I've already been a Grad Student for three months! In between the highs and lows of academic pride and utter hopelessness, I've managed to keep myself from dropping out and giving up for over half of a semester! Assuming that the Ph.D. takes me five years, that means I'm 5% complete on my way there!
+I can't believe I've already been a Grad Student for three months! In between the highs and lows of academic pride and utter hopelessness, I've managed to keep myself from dropping out and giving up for over half of a semester! Assuming that the Ph.D. takes me five years, that means I'm almost there!
 
 So now I've been thinking, I've had this blog for as long as I've been doing my Ph.D., and I want to have some sorts of regular events to keep myself focused and writing. I used to think that writing about the fun of my research and labmates would be a cool topic, but considering how the work I do is kind of sensitive (I don't want to end up getting scooped) and I have this rule about respecting people's privacy (this isn't exactly an anonymous blog), I can't just blab on the Internet about all the cool stuff that we do in our labs (no matter how *badly* I want to).
 
