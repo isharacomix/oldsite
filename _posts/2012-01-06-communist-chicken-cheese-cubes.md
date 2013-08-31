@@ -15,3 +15,6 @@ Basically, to make each blob, I pinched off a bit of dough, rolled it into a bal
 In the end, they were disappointingly mild and a bit salty. The dough absorbed the hot sauce, so I had to add extra sauce to the finished product (which I would have done anyway, but it was the principle of the matter). Additionally, they were VERY doughy, and I would have preferred something more like a "thin and crispy" envelope for each chicken chunk. Instead, they ended up being more like crispy dinner rolls with a cheesy chicken core. Not that they weren't good, they just weren't what I was expecting.
 
 In the end, I learned a few new things from this adventure, from how to make good oven-baked chicken to how to make bread from scratch! What will I do next? No idea. Probably take a nap.
+
+![Photo]({{ site.baseurl }}img/food_chicken_cubes.jpg)
+
