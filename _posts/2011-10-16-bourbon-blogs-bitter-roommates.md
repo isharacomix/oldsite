@@ -15,5 +15,5 @@ I think that when I spent time fighting the smoke detector, I ended up letting m
 
 Not only have I discovered a new cooking blog, I also bought a [cookbook prepared by my University's Office of International Services](https://ois.ncsu.edu/public/cookbook/index.cfm), so between the two of these, I'm sure I'll have no shortage of recipes to try out on my weekend cooking adventures.
 
-![Photo]({{ site.baseurl }}img/pic_bourbon_salmon.jpg)
+![Photo]({{ site.baseurl }}img/food_bourbon_salmon.jpg)
 

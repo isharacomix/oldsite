@@ -16,5 +16,5 @@ I should really start looking into ways to spice up my manicottis. The cheese mi
 Short blog entry is short. Lazy Barry is lazy.
 
 
-![Photo]({{ site.baseurl }}img/pic_manicottis.jpg)
+![Photo]({{ site.baseurl }}img/food_manicottis.jpg)
 

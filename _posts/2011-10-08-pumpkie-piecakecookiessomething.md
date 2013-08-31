@@ -11,4 +11,4 @@ So now comes the big question. What to fix next? I've been thinking of buying my
 
 It's kind of weird how this grad school blog has sort of turned into a cooking blog. Since I can't really talk about unpublished science, I guess I find it more fun to just talk about foodstuffs. Well, that and ham radio.
 
-![Photo]({{ site.baseurl }}img/pic_pumpkincake.jpg )
+![Photo]({{ site.baseurl }}img/food_pumpkincake.jpg )
