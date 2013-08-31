@@ -15,5 +15,5 @@ I recently saw a post for some <a href="http://www.howsweeteats.com/2011/11/chew
 
 I feel like I'm going around in circles, always cooking pasta, but I can't help it! Pasta is so much fun, and it tastes so good. It just tends to be different combinations of cheese, sauce, and noodles, and to be perfectly honest, I don't mind that one bit. Cheese, sauce, and noodles are among the best things that I think exist in this world.
 
-![Photo](({{ site.baseurl }}img/pic_mas_manicottis.jpg))
+![Photo]({{ site.baseurl }}img/pic_mas_manicottis.jpg)
 

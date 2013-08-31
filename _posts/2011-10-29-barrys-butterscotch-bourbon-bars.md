@@ -11,5 +11,5 @@ Of course, I'm always amazed by how much things grow in size the oven. It felt l
 
 Other than my butterscotch bars, the only other thing I cooked was yet another plate of lasagna. I actually managed to pick up some manicotti today, but I wanted to finish off my lasagna before opening another pack of noodles. I'd like to make my manicotti on a bed of rotini... I bet that would be delicious along with a glass of grape juice and some garlic toast. I think manicotti would be an altogether better way of spicing up my dinner, since it's much easier to prepare it (and keep it together) than lasagna (which still falls apart every time I make it). I could potentially make a single manicotti tube every night and use that to add some cheesy pizazz to my usual pasta dinners.
 
-![Photo](({{ site.baseurl }}img/pic_bourbon_bars.jpg))
+![Photo]({{ site.baseurl }}img/pic_bourbon_bars.jpg)
 
