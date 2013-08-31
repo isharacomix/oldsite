@@ -13,7 +13,7 @@ Unfortunately, the ludicrous amounts of cheese in a manicotti dinner is a bit to
 
 I should really start looking into ways to spice up my manicottis. The cheese mixture in manicotti and lasagna offers a unique opportunity to include just about anything you want to the dish. Right now, I'm thinking it might be fun to shred some carrots and drop some broccoli in the cheese, or something like that.
 
-Short blog entry is short. Lazy Barry is lazy. -_-'
+Short blog entry is short. Lazy Barry is lazy.
 
 
 ![Photo](({{ site.baseurl }}img/pic_manicottis.jpg))
