@@ -15,4 +15,4 @@ In other news, today I went to the [International Festival of Raleigh](http://ww
 
 They also had a live cooking session where there was a kitchen and they showed you how to make various dishes. Too bad we arrived in between two of those sessions. Ah well, at least we tried, right?
 
-![Photo]({{ site.baseurl }}img/pic_lasagna.jpg)
+![Photo]({{ site.baseurl }}img/food_lasagna.jpg)
