@@ -3,7 +3,7 @@ layout: post
 title: The Roadmap
 ---
 
-So the first week of classes have come to an end. I'm in an interesting situation where I have my main classes on Tuesday and Thursday, leaving Monday, Wednesday, and most of Friday open for research and homeworks. It might be challenging to cram all that lecturing into a 24-hour block, but I think I'll be able to strike a happy balance between my research and coursework commitments while still managing to save a few moments for myself.
+So the first week of classes have come to an end! I'm in an interesting situation where I have my main classes on Tuesday and Thursday, leaving Monday, Wednesday, and most of Friday open for research and homeworks. It might be challenging to cram all that lecturing into a 24-hour block, but I think I'll be able to strike a happy balance between my research and coursework commitments while still managing to save a few moments for myself.
 
 In my department, it's considered unusual for a first-semester Ph.D. student to serve as a Research Assistant. Since the first semester typically features a full course load of 9 credit hours (along with the adjustment to Graduate-level work), they usually expect us to work as Teaching Assistants instead. That pressures us with slightly less responsibilities as well as giving us an opportunity to find potential advisors.
 
