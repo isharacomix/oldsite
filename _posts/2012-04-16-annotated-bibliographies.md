@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I do time management
+title: Annotated Bibliographies
 ---
 
 In my last entry, I mentioned that a good way to spend your free time is to work on your annotated bibliography, but I never mentioned exactly what that was. While I'm sure Wikipedia has an <a href="https://en.wikipedia.org/wiki/Annotated_bibliography">all-star definition of the word</a>, I have my own ideas about what that means and how to make it useful.
