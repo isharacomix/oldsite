@@ -7,6 +7,8 @@ So I went to another one of those super-fun <b>Preparing Future Leaders</b> work
 
 Oh, merciful heavens... what could that mean?
 
+YT("ArHQjQyIS70", print = TRUE)
+
 So yeah, that's me. As we can all see from this, I'm a particularly poor speaker. I mumble, I talk way too fast, and apparently I have a bit of a lisp that can only be heard over a microphone. Also, just look at those silly faces I make! I'm quite the character, aren't I?
 
 Of course, it looks like the only people who are actually checking out the video are the administrators of the Graduate School - and they all know me anyway, so it's hardly a big deal.
