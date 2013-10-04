@@ -9,7 +9,7 @@ Oh, merciful heavens... what could that mean?
 
 <iframe class="youtube-player" type="text/html" width="640" height="360" src="http://www.youtube.com/embed/qylwzHkfOxs" frameborder="0">Video</iframe>
 
-So yeah, that's me. As we can all see from this, I'm a particularly poor speaker. I mumble, I talk way too fast, and apparently I have a bit of a lisp that can only be heard over a microphone. Also, just look at those silly faces I make! I'm quite the character, aren't I?
+So yeah, that was me. As we can all see from this, I'm a particularly poor speaker. I mumble, I talk way too fast, and apparently I have a bit of a lisp that can only be heard over a microphone. Also, just look at those silly faces I make! I'm quite the character, aren't I?
 
 Of course, it looks like the only people who are actually checking out the video are the administrators of the Graduate School - and they all know me anyway, so it's hardly a big deal.
 
