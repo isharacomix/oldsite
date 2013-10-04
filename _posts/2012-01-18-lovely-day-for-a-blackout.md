@@ -4,7 +4,7 @@ title: Lovely Day for a Blackout
 ---
 
 
-<a href="http://deviantart.com">deviantArt</a> didn't do much, but they put a button where they normally put their advertisements prompting users to go to discussion to talk about both sides of the SOPA issue. I didn't actually read the discussion because the commenting system on dA doesn't handle long threads very well. There were over 2000 comments on that debate. So they saw it.
+l<a href="http://deviantart.com">deviantArt</a> didn't do much, but they put a button where they normally put their advertisements prompting users to go to discussion to talk about both sides of the SOPA issue. I didn't actually read the discussion because the commenting system on dA doesn't handle long threads very well. There were over 2000 comments on that debate. So they saw it.
 
 Heck, even the My Little Pony fan-site <a href="http://equestriadaily.com">Equestria Daily</a> put censor bars in their header image, showing that even niche sites were willing to tell their users "Hey. This is important." All of these people saw these protests. It may have only been a little hiccup - it certainly could have used some more backing - but it shows that when different sites work together, we can put forth information.
 
