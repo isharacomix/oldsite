@@ -5,7 +5,7 @@ title: OMG I'M FAMOUS
 
 So I went to another one of those super-fun <b>Preparing Future Leaders</b> workshops that I keep talking about, and I was greeted by our presenter telling me that I was famous.
 
-Oh, merciful heavens... what could that mean? <iframe width="560" height="315" src="//www.youtube.com/embed/qylwzHkfOxs" frameborder="0" allowfullscreen></iframe>
+Oh, merciful heavens... what could that mean?
 
 So yeah, that's me. As we can all see from this, I'm a particularly poor speaker. I mumble, I talk way too fast, and apparently I have a bit of a lisp that can only be heard over a microphone. Also, just look at those silly faces I make! I'm quite the character, aren't I?
 
