@@ -1,9 +1,9 @@
-It's been a while since I've written anything, but it's because the end of the semester is nigh, and as they say, it's <em>crunch time</em>. I'm working on a paper, I'm wrapping up course projects, and I'm going several days a week without any sleep. That's just a day in the life of a graduate student, though, right? <!--more You have time to write a blog entry though, huh? &rarr;-->
-
 ---
 layout: post
 title: How I do time management
 ---
+
+It's been a while since I've written anything, but it's because the end of the semester is nigh, and as they say, it's <em>crunch time</em>. I'm working on a paper, I'm wrapping up course projects, and I'm going several days a week without any sleep. That's just a day in the life of a graduate student, though, right?
 
 So let's talk about <strong>time management</strong>. As it turns out, I may have bitten off a bit more than I can chew this semester - there's a reason why they let you take "research credits"! Research is a huge time commitment and classes have a tendency of pushing a lot of short term responsibilities to your attention, which creates a shortage of time and energy that can be adequately split between the two. Effective time management is critical to deal with the short-term commitments of coursework and the long-term commitments of research. Sometimes it feels like there's not enough hours in the day to get things done, but in reality, there's actually a lot of time hidden in 24 hours.
 
