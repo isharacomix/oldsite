@@ -20,7 +20,7 @@ THE PATRON SAINT OF CAPSLOCKDAY IS <a href="http://twitter.com/loudbot">LOUDBOT<
     &lt;IsharaComix&gt; LOUDBOT, be IsharaComix
     &lt;LOUDBOT&gt; &lt;IsharaComix&gt; IS IT LEGAL TO SAY "FROM FOO IMPORT FOO"?
     &lt;IsharaComix&gt; LOUDBOT, be IsharaComix
-    &lt;LOUDBOT&gt; &lt;IsharaComix&gt; TIME TO BLOCK CANADIAN EMAIL.</code>
+    &lt;LOUDBOT&gt; &lt;IsharaComix&gt; TIME TO BLOCK CANADIAN EMAIL.
 
 LOUDBOT IS ALSO ON <a href="http://loudversations.tumblr.com/">TUMBLR</a>.
 
