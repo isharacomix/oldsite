@@ -129,7 +129,7 @@ Memberships and Affiliations
  * [Association of Computing Machinery](http://acm.org), since August 2011
  * [NC State Linux Users Group](http://lug.ncsu.edu), since August 2011
  * [NC State Alumni Association](http://www.alumni.ncsu.edu/), since July 2011
- * [Triangle Linux User’s Group](http://trilug.org), since June 2011
+ * [Triangle Linux Users Group](http://trilug.org), since June 2011
  * [IEEE Computer Society](http://computer.org), since May 2011
  * [IEEE Eastern North Carolina Section](http://sites.ieee.org/encs), since May 2011
  * [Institute of Electrical and Electronics Engineers](http://ieee.org), since May 2011
