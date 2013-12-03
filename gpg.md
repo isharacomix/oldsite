@@ -7,6 +7,4 @@ title: Crypto
 
 ```1F8c2FSHTDx7db8Y3pjkurhNdMv6stmEKt```
 
-```LcqEyDLef9DsEHmK5jtzAWbuFHLXMtfGfi```
-
 
