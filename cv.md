@@ -68,11 +68,12 @@ Teaching Experience
 
 Service and Leadership
 ----------------------
+ * [NC State Linux Users Group](http://lug.ncsu.edu), Treasurer, since Spring 2014
  * [NC State University Graduate Student Association](http://ugsa.ncsu.edu), Vice President of Communications, Fall 2013 - Spring 2014
  * [Triangle Linux Users Group](http://trilug.org), Steering Committee, since May 2013
  * [IEEE Eastern NC Section Executive Committee](http://sites.ieee.org/encs/), Secretary, since January 2013
  * [IEEE Eastern NC Section Computer Society Chapter](http://sites.ieee.org/encs/computer), Chair, since January 2013
- * [NC State Linux Users Group](http://lug.ncsu.edu), President, since Spring 2013
+ * [NC State Linux Users Group](http://lug.ncsu.edu), President, Spring and Fall 2013
  * [NC State University Graduate Student Association](http://ugsa.ncsu.edu), CSC Representative and Academic Policy Committee Chair, Fall 2012 - Spring 2013
  * [NC State University Computer Science Graduate Student Association](http://ncsu.orgsync.com/org/cscgsa), President, since Fall 2012
  * [NC State University Standing Committee on Copyright](http://www.provost.ncsu.edu/governance/standing-committees/copyright/), since September 2012
@@ -159,6 +160,4 @@ Articles Written About Me
 -------------------------
  * [NC State Graduate School Spotlight](http://www.ncsu.edu/grad/stories/peddycord.html), August 1, 2012
  * [OpenSource.com Community Spotlight](http://opensource.com/should-be/12/6/community-spotlight-barry-peddycord-iii-phd-student-computer-science), June 26, 2012
-
-*No need for modesty, right?*
 
