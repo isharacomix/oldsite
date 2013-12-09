@@ -3,7 +3,7 @@ layout: post
 title: Sorry, I assumed...
 ---
 
-*<strong>Update, December 2013</strong>: It's interesting how much more aware I've become of my own privilege. For a modern take on this topic, please see <a href="http://isharacomix.org/2013/08/09/of-programming-and-privilege">this article written ironically in the same month a year later</a>*
+*<strong>Update, December 2013</strong>: It's interesting how much more aware I've become of my own privilege since writing this article. For a modern take on this topic, please see <a href="http://isharacomix.org/2013/08/09/of-programming-and-privilege">this article written ironically in the same month a year later</a>*
 
 You know, I like to make fun of the fact that I still use the same laptop that I got when I was in high school. "LOL! I had to use dial-up when I was a Freshman in college. ROFL! I still use a dumb feature phone." So when the speaker at a tech conference tells us that he <em>knows</em> that everyone in the audience has a smart phone, I just laugh and starting pulling the "I'm a poor Grad Student" lines. During high school, people always used to assume that I was better off than I was, and it wasn't until I was in college that I figured out why.
 
