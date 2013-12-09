@@ -15,5 +15,5 @@ A classroom environment conducive to learning is characterized by a sense of mut
 
  <sub><strong>1</strong>: ﻿﻿Myers, S. A., &amp; Bryant, L. E. (2004). College Students’ Perceptions of How Instructors Convey Credibility. Qualitative Research Reports in Communication, 5(4), 22-27.</sub>
 
-*<sub><strong>2</strong>: ﻿Meyers, S. A., Bender, J., Hill, E. K., &amp; Thomas, S. Y. (2006). How Do Faculty Experience and Respond to Classroom Conflict? International Journal of Teaching and Learning in Higher Education, 18(3), 180-187.</sub>*
+ <sub><strong>2</strong>: ﻿Meyers, S. A., Bender, J., Hill, E. K., &amp; Thomas, S. Y. (2006). How Do Faculty Experience and Respond to Classroom Conflict? International Journal of Teaching and Learning in Higher Education, 18(3), 180-187.</sub>
 
