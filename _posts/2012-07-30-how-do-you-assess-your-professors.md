@@ -13,7 +13,7 @@ Students who don't have faith in their professors' credibility are less inclined
 
 A classroom environment conducive to learning is characterized by a sense of mutual respect on both sides of the aisle. Both the professor and the students put a great deal of time and effort into the acts of running and attending a class. When either side feels as though the other isn't recognizing that effort, tensions escalate, time is wasted, and what should be professional relationships are marred by a lack of communication and respect. As the facilitators of the classroom, the professor is responsible for ensuring that the environment and the character they present to students is welcoming, engaging, and establishes cohesion and relevance with their curriculum and career plans - otherwise they shouldn't be surprised when a student decides to leave the class 20 minutes early to spend their time more productively elsewhere.
 
-*<sub>﻿﻿**1**: Myers, S. A., &amp; Bryant, L. E. (2004). College Students’ Perceptions of How Instructors Convey Credibility. **Qualitative Research Reports in Communication**, 5(4), 22-27.</sub>*
+*<sub><strong>1</strong>: Myers, S. A., &amp; Bryant, L. E. (2004). College Students’ Perceptions of How Instructors Convey Credibility. <strong>Qualitative Research Reports in Communication</strong>, 5(4), 22-27.</sub>*
 
-*<sub>**2**:﻿ Meyers, S. A., Bender, J., Hill, E. K., &amp; Thomas, S. Y. (2006). How Do Faculty Experience and Respond to Classroom Conflict? **International Journal of Teaching and Learning in Higher Education**, 18(3), 180-187.</sub>*
+*<sub><strong>2</strong>:﻿ Meyers, S. A., Bender, J., Hill, E. K., &amp; Thomas, S. Y. (2006). How Do Faculty Experience and Respond to Classroom Conflict? <strong>International Journal of Teaching and Learning in Higher Education</strong>, 18(3), 180-187.</sub>*
 
