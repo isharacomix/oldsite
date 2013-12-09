@@ -13,7 +13,7 @@ The first is my Research Journal. Remember a while back, <a href="http://isharac
 
 One thing I always imagine about my post-doctoral life is having a nice big bookshelf to hold all of my textbooks and magazines, and a journal like this would look so much better on a shelf years down the road than a boring old lab notebook. I still use a marble notebook for stuff like balancing my budget and checkbook, but I use this writer's journal for research, and it makes a great talking point during meetings with other students and faculty.
 
-![Photo]({{ site.baseurl }}img/trophy_ring.jpg)
+![Photo]({{ site.baseurl }}img/trophy_rings.jpg)
 
 The second is actually a pair of two artifacts - my Undergraduate Class Ring and my ring from the Order of the Engineer ceremony. During Undergrad, there was no secret that I felt as though I didn't really belong in my University community, and while my grandparents paid for my class ring, I never actually started wearing it until after I was accepted to Grad School. It's a bit bulky and actually too big for me, but this only reinforces the fact that it's there. Because of the circumstances under which I started wearing it, when I see it I consider myself not just as a Grad Student, but as a part of my University.
 
