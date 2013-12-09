@@ -11,7 +11,7 @@ The feature I've been using in Zotero its "notes" support. I create a note and a
 
 Mendeley does... <em>and oh does it</em>.
 
-Basically, Mendeley's annotations system is very simple. Rather than embedding the annotations in the PDFs (which is platform dependent and hardly portable), it instead slaps little sticky notes on top of the PDFs and stores them in its own database. The PDF reader is very lightweight - <del datetime="2012-07-23T15:34:06+00:00">it doesn't even support text highlighting</del><sup>1</sup> - but that doesn't matter. What matters is that you can put your annotations in the context of the document as you read it and as you see it.
+Basically, Mendeley's annotations system is very simple. Rather than embedding the annotations in the PDFs (which is platform dependent and hardly portable), it instead slaps little sticky notes on top of the PDFs and stores them in its own database. The PDF reader is very lightweight - <del datetime="2012-07-23T15:34:06+00:00">it doesn't even support text highlighting</del> - but that doesn't matter. What matters is that you can put your annotations in the context of the document as you read it and as you see it.
 
 Of course, if that's all that it offers, I wouldn't normally be impressed. But then I figured out something I didn't think of earlier.
 
@@ -27,4 +27,3 @@ I don't like that Mendeley is a closed-source application, but they keep the dat
 
 If you're on Mendeley, <a href="http://www.mendeley.com/profiles/barry-peddycord-iii/">look me up</a>.
 
- <sub><strong>1</strong>: As it turns out, you <em>can</em> highlight text. The default tool is the "grabby hand", but you can switch to text highlighting in the main toolbar up at the top of the window. I'm not sure how I overlooked it, but thanks to Ricardo for pointing it out!</sub>
