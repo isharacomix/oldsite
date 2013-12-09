@@ -35,7 +35,7 @@ Employment
 
 Refereed Publications
 ---------------------
- * Edward Gehringer, **Barry Peddycord III**. "Grading by Experience Points: A Case Study from Computer Ethics." Accepted for publication in *Proceedings of the 43rd IEEE Frontiers in Eduction Conference (FIE '13)*.
+ * Edward Gehringer, **Barry Peddycord III**. "Grading by Experience Points: A Case Study from Computer Ethics." In *[Proceedings of the 43rd IEEE Frontiers in Eduction Conference (FIE '13)](http://fie2013.org)*, October 2013.
  * Edward Gehringer, **Barry Peddycord III**. "[Teaching Strategies When Students Have Access to Solution Manuals](http://www.asee.org/public/conferences/20/papers/6828/view)." In *[Proceedings of the 2013 ASEE Annual Conference](http://www.asee.org/conferences-and-events/conferences/annual-conference/2013)*, June 2013.
  * Edward Gehringer, **Barry Peddycord III**. "[The Inverted-Lecture Model: A Case Study in Computer Architecture](http://db.grinnell.edu/sigcse/sigcse2013/Program/viewAcceptedProposal.pdf?sessionType=paper&amp;sessionNumber=118)." In *[Proceedings of the 44th ACM Technical Symposium on Computer Science Education (SIGCSE '13)](http://www.sigcse.org/sigcse2013/)*, Pages 489-494, March 2013.
  * Edward Gehringer, **Barry Peddycord III**. "[Experience with online and Open-Web Exams](https://cirt.gcu.edu/jir/documents/2013v2/jirjournalbro2031913pdf)." *[Journal of Instructional Research](http://cirt.gcu.edu/research/jir)*, Volume 2, Pages 10-19, 2013.
