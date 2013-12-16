@@ -60,10 +60,11 @@ Public Scholarship
 
 Teaching Experience
 -------------------
- * **CSC 230: C and Software Tools, Co-Teacher, Fall 2013 (1 section, 86 students) - current**
+ * CSC 230: C and Software Tools, Co-Teacher, Fall 2013 (1 section, 86 students)
  * CSC 326: Software Engineering, Lab Instructor, Spring 2013 (2 sections, 25 and 25 students)
  * CSC 326: Software Engineering, Lab Instructor, Fall 2012 (2 sections, 12 and 17 students)
 
+For more information, visit my [teaching portfolio]({{ site.baseurl }}teaching).
 
 
 Service and Leadership
