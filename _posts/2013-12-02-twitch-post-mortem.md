@@ -65,7 +65,7 @@ the timeline, deadline, and Thanksgiving. The only way to find out is to make
 a bigger game and see how well it works.
 
 All of the videos I recorded are available on my [Twitch.tv](http://twitch.tv/isharacomix)
-channel as well as on my [Youtube Channel](https://www.youtube.com/playlist?feature=c4-feed-u&list=PL5b1H4tE2PR-BNgJ7k16MSiPqL4TPQXxL).
+channel as well as on my [Youtube Channel](https://www.youtube.com/playlist?list=PL5b1H4tE2PR-BNgJ7k16MSiPqL4TPQXxL).
 If you decide to take a look, let me know what you think! The quality for the
 Youtube videos is pretty terrible, but Twitch is able to broadcast at 1:1
 pixel resolution, which I think is pretty important. Since I'm not actually
