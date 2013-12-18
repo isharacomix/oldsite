@@ -3,7 +3,7 @@ layout: base
 title: Curriculum Vitae
 ---
 
-<img class="pull-right" src="{{ site.baseurl }}/img/barry_pfl.jpg" alt="" />
+<img class="pull-right" width="200" src="{{ site.baseurl }}/img/barry_pfl.jpg" alt="" />
 
 Curriculum Vitae
 ----------------
@@ -11,7 +11,7 @@ Barry Wayne Peddycord III
 Ph.D. Student   
 Department of Computer Science    
 North Carolina State University    
-*bwpeddyc at ncsu dot edu*
+*bwpeddyc \[at\] ncsu \[dot\] edu*
 
 
 
