@@ -145,6 +145,7 @@ Memberships and Affiliations
 
 Awards, Recognitions, Certifications
 ------------------------------------
+ * *Certificate of Accomplishment in Teaching*, December 2013
  * Nominated for University Graduate Student Association *Outstanding TA Award*, 2013
  * NC State [Preparing Future Leaders "Season Pass"](http://www.ncsu.edu/grad/preparing-future-leaders/season-pass/season-passholders.html), Fall 2011
  * *Upsilon Pi Epsilon* Scholarship, 2011-2012
