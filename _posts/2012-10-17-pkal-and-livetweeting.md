@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #pkal and Livetweeting
+title: PKAL and Livetweeting
 ---
 
 Sorry for the silence lately - my brother came over unexpectedly this weekend and between him, research, and grading, there wasn't much time left for keeping the blog up to date. <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SuspiciouslySpecificDenial">I assure you that Minecraft had absolutely nothing to do with it</a>.
