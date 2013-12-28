@@ -4,7 +4,7 @@ window.onload = function() {
   var el = document.getElementById('terminal')
     , buf = new DisplayBuffer(el)
 
-  var socket = io.connect("ws://ttycast-isharacomix.rhcloud.com:8000")
+  var socket = io.connect("ws://live.isharacomix.org:13377")
   socket.on('data', function(operations) {
     for (var i = 0; i < operations.length; i ++) {
       var operation = operations[i]
