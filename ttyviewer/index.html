@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<meta charset=utf-8>
+<title>ttycast</title>
+<link rel=stylesheet href=ttycast.css >
+<style>
+body {
+  background: #FFF;
+  text-align: center;
+  font-size: 14px;
+}
+.terminal-container {
+  display: inline-block;
+  box-shadow: 0 0 20px rgba(0,0,0,200);
+  text-align: left;
+  padding: 4px;
+  margin: 10px;
+}
+</style>
+<script src=components/ttycast-client/colors.js></script>
+<body>
+<p>
+<div class="terminal-container">
+  <div class="terminal" id="terminal"></div>
+</div>
+<script src="socket.io.js"></script>
+<script src="screen-buffer.js"></script>
+<script src="display-buffer.js"></script>
+<script src="ttycast.js"></script></p>
+
+<p><a href="http://webchat.freenode.net?channels=%23%23isharacomix">Visit</a></p>
+</body>
+
