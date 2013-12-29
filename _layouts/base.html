@@ -2,14 +2,16 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Barry Peddycord III | {{ page.title }}</title>
+        <title>IsharaComix LIVE!!! | {{ page.title }}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         
         <meta name="description" content="Barry's Blog" />
         <meta name="author" content="Barry Peddycord III">
         
         <link rel="stylesheet" href="{{site.baseurl}}css/bootstrap.css">
-        <link rel="stylesheet" href="{{site.baseurl}}css/bootstrap-responsive.css">
+        <link rel="stylesheet" href="{{site.baseurl}}css/bootstrap-theme.css">
+        <link rel="stylesheet" href="{{site.baseurl}}css/ttycast.css">
+        <script src="{{ site.baseurl }}js/colors.js"></script>
         
         <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
         <link rel="alternate" title="Blog Feed" href="http://isharacomix.org/feed" type="application/rss+xml">
@@ -17,19 +19,19 @@
         <link rel="openid2.local_id" href="http://www.google.com/profiles/109698223232106496867" />
     </head>
 
-    <body class="with-navbar">
-        <div class="container container-main">
+
+    <body>
+        <div class="navbar navbar-static-top" role="navigation"></div>
+    
+        <div class="container">
             <div class="row">
                 {% include header.html %}
             </div>
 
+            <hr />
+
             <div class="row">
-                <div class="offset1 span2">
-                    {% include sidebar.html %}
-                </div>
-                <div class="span8">
-                    {{ content }}
-                </div>
+                {{ content }}
             </div>
 
             <hr />
@@ -38,6 +40,16 @@
                 {% include footer.html %}
             </footer>
         </div>
+
+        {% if page.terminal %}
+            <script src="{{ site.baseurl }}js/socket.io.js"></script>
+            <script src="{{ site.baseurl }}js/screen-buffer.js"></script>
+            <script src="{{ site.baseurl }}js/display-buffer.js"></script>
+            <script src="{{ site.baseurl }}js/ttycast.js"></script>
+        {% else if page.replay %}
+            <script type="text/javascript" src="{{ site.baseurl }}js/VT100.js" ></script>
+            <script type="text/javascript" src="{{ site.baseurl }}js/scriptreplay.js" ></script>
+        {% endif %}
 
         <script src="{{site.baseurl}}js/jquery-1.9.1.min.js"></script>
         <script src="{{site.baseurl}}js/bootstrap.js"></script>
