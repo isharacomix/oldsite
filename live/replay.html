@@ -1,0 +1,55 @@
+<html>
+<head>
+<title>scriptreplay in javascript</title>
+<link rel=stylesheet href=ttycast.css >
+<style>
+body {
+  background: #FFF;
+  text-align: center;
+  font-size: 14px;
+}
+.terminal-container {
+  display: inline-block;
+  box-shadow: 0 0 20px rgba(0,0,0,200);
+  text-align: left;
+  padding: 4px;
+  margin: 10px;
+}
+</style>
+<script type="text/javascript" src="./VT100.js" ></script>
+<script type="text/javascript" src="./scriptreplay.js" ></script>
+<script type="text/javascript"><!--
+
+
+
+window.addEventListener("load", function(evt) {
+    vt = new Terminal(80, 24);
+    vt.open(document.getElementById("term"));
+    vt.refresh();
+    //document.getElementById("stop").addEventListener("click", stop, false);
+    //document.getElementById("speed").addEventListener('change', set_speed, false);
+    //document.getElementById("fontsize").addEventListener('change', set_fontsize, false);
+    //document.getElementById("play").addEventListener("click", play, false);
+    play();
+    }, false);
+
+
+
+
+
+
+--></script>
+</head>
+
+<body>
+
+<h2>scriptreplay in javascript</h2>
+
+<div class="terminal-container">
+<div class="terminal" id="term"></div>
+</div>
+
+</body>
+
+</html>
+
