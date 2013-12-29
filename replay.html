@@ -1,7 +1,7 @@
 ---
-layout: base
+layout: page
 title: Replay
-replay: True
+replay: shelr-record
 ---
 
 
@@ -14,7 +14,7 @@ window.addEventListener("load", function(evt) {
     //document.getElementById("speed").addEventListener('change', set_speed, false);
     //document.getElementById("fontsize").addEventListener('change', set_fontsize, false);
     //document.getElementById("play").addEventListener("click", play, false);
-     play_file("{{ site.baseurl }}replays/shelr-record.json");
+     play_file("{{ site.baseurl }}replays/{{ page.replay }}.json");
     }, false);
 --></script>
 
