@@ -5,6 +5,28 @@ layout: base
 <div class="col-md-8 col-md-push-2 col-sm-12">
     <article>
     <h2>{{ page.title }}</h2>
+    
+    {% if page.replay %}
+        <script type="text/javascript"><!--
+    window.addEventListener("load", function(evt) {
+        vt = new Terminal(80, 24);
+        vt.open(document.getElementById("term"));
+        vt.refresh();
+        //document.getElementById("stop").addEventListener("click", stop, false);
+        //document.getElementById("speed").addEventListener('change', set_speed, false);
+        //document.getElementById("fontsize").addEventListener('change', set_fontsize, false);
+        //document.getElementById("play").addEventListener("click", play, false);
+         play_file("{{ site.baseurl }}replays/{{ page.replay }}.json");
+        }, false);
+    --></script>
+
+
+        <div class="terminal-container">
+            <div class="terminal" id="term"></div>
+        </div>
+    {% endif %}
+    
+    
     <div id="post">
         {{ content }}
     </div>
