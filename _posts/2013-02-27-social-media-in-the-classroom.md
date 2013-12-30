@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Social Media in the Classroom
+tags: blog
 ---
 
 Today we had the second meeting of the Current Issues in Teaching Research Reading Group, and had a lovely discussion - nominally about a paper<sup>1</sup> on social media in the classroom, but quickly devolving into what the *affordances* and *consequences* of using social media in the classroom.

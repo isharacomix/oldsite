@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A man's gotta eat!
+tags: blog
 ---
 
 When I moved out and started living on my own, I promised myself that no matter how stressed out I was or how heavy my workload got, I would always make sure that I did the following three things:

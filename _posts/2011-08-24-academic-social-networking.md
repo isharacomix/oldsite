@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Academic Social Networking
+tags: blog
 ---
 
 During my travels of the internets, I came across a little website called [Academia.edu](http://academia.edu) which markets itself essentially as [LinkedIn](http://linkedin.com), but for scholars. I've had [my own profile page](http://ncsu.academia.edu/BarryPeddycord) for a while now, so I figured I'd share my own views about the site... what it is, what it offers, and what a difference I think it could make if it can live up to its mission.

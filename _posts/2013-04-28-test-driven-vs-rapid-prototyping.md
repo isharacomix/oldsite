@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Test Driven Development vs Rapid Prototyping
+tags: blog
 ---
 
 I've been working on [#8bitmooc](http://8bitmooc.org) for about 3 months now,

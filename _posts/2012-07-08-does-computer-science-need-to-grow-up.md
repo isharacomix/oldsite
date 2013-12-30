@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Does Computer Science Need to Grow Up?
+tags: blog
 ---
 
 While I was perusing some academic articles one day, I bumped into a familiar piece of work titled <a href="http://cacm.acm.org/magazines/2009/8/34492-viewpoint-time-for-computer-science-to-grow-up/fulltext"><em>Time for Computer Science to Grow Up</em></a> by Dr. Lance Fortnow discussing the role that conferences play in Computer Science. After a year working as a grad student, I now see what he was talking about. It's an interesting viewpoint, and as an up and coming Ph.D. student, I've obviously got something to say about it.

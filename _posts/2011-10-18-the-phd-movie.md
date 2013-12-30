@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Ph.D. Movie
+tags: blog
 ---
 
 Yesterday, I had the pleasure of attending a screening of the long-awaited [Piled Higher and Deeper Movie](http://www.phdcomics.com/movie/aboutmovie.html), the big movie based on [the webcomic](http://www.phdcomics.com/comics.php) that covers the drama, pain, and torment of the lives of Graduate Students, kind of like this blog. It was hosted by the University Graduate Student Association, and we had an amazing turnout for the film, which kind of surprised me! Judging from... well... the PHD Comics... I always considered Grad Students to be all lifeless and uninterested in stuff. I just thought I was the exception since I was young, foolish, and still haven't been completely hardened by the disappointing prospects of Academia. Go figure.

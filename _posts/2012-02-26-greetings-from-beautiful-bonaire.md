@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Greetings from Beautiful Bonaire!
+tags: blog
 ---
 
 I've never traveled much in my life - I grew up and lived in the same town until I started college, and even then, Raleigh isn't exactly out of the way. But now, I've gone farther from home than I've ever been, the Caribbean island of <a href="http://en.wikipedia.org/wiki/Bonaire">Bonaire</a> - a special municipality within the Netherlands. It's a tiny little island off the coast of Venezuela, but it's got a nice quaint feel to it.

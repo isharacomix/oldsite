@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Christmas Party - Maker Style
+tags: blog
 ---
 
 I've been a little under the weather and a little depressed these past few days, but thanks to friends, food, and (most importantly) milkshakes, I'm feeling a bit better and up for another blog post this week.

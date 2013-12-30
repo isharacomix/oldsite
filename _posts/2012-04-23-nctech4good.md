@@ -1,6 +1,7 @@
 ---
 layout: post
 title: NCTech4Good
+tags: blog
 ---
 
 Last week, I had the distinct pleasure of attending a discussion and networking event with the fine folks from <a href="http://nctech4good.org">NCTech4Good</a>, a group of technically inclined people based here in my hometown of Raleigh who use their talents to assist non-profits in whatever technology-related issues they have. This includes things such as setting up websites, establishing a presence on social networking sites, and generally assisting them with building the infrastructure needed for outreach, education, and collaboration with the public and within their own membership. It was a very different perspective on technology that was very exciting to see.

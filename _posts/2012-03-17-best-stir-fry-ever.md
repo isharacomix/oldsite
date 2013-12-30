@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Best Stir-Fry Ever
+tags: blog
 ---
 
 ![Photo]({{ site.baseurl }}img/food_mega_stirfry.jpg)

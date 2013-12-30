@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lasagna and Internationalization
+tags: blog
 ---
 
 We need some smart computer scientists out there to develop the *.wif* file format, a binary encoding for aromas, odors, and other smells. If I had a device that could record and share *.wif* formats, then I'd totally upload a copy of the lasagna's. Of course, we need to make sure this format uses the Ogg container so that it would be Free and interoperable.

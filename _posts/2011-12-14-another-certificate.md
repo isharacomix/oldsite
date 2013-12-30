@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Another Certificate!
+tags: blog
 ---
 
 Since I started Grad School, I've been really busy - not only with classes and research, but also sharpening my professional skills and working on my social network. I've been getting involved with the local section of the <a href="http://ieee.org">IEEE</a>, even running for the position of Section Secretary for the year of 2012. I've also been participating the <a href="http://www.ncsu.edu/grad/preparing-future-leaders/index.php">Preparing Future Leaders</a> program, an initiative by our Graduate School and Office of Post-Doctoral Affairs to assist Grads and Post-Docs in teaching, research, and professional skills. This blog post is about the latter.

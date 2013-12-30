@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Systems of Rules
+tags: blog
 ---
 One of my favorite games of all time is Pandemic. It's a cooperative board game
 where all the odds are against the player. It's a strategic game where you have

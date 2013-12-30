@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Trying Out Coursera
+tags: blog
 ---
 
 One of the hottest topics in educational research right now is the growing popularity of Massive Open Online Courses (MOOCs) such as the <a href="http://www.edxonline.org/">edX</a> or <a href="https://coursera.org">Coursera</a> initiatives. Basically, a MOOC is an online course offering that delivers free course content from big-name Universities like MIT, Stanford, and Harvard to class sizes of over 1000 people from across the world. They're a revolution in education, creating a lot of discussion both in academic and popular circles about the changing role of the traditional brick-and-mortar University in the wake of this disruptive technology.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Teaching After All
+tags: blog
 ---
 
 ![Photo]({{ site.baseurl }}img/event_itrust.jpg)

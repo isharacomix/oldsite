@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Here Comes the Qualifier
+tags: blog
 ---
 
 In less than one week, I'm going to be taking my Written Qualifying Examination for the Ph.D. in Computer Science. The calm demeanor in which I write this post completely belies the nervous excitement I feel right now as I prepare to take this tremendous step forward in my career. As I have been doing research since my first day in the Ph.D. program, I was set up to take my Qualifier earlier than most other students, though it's still unusual to take it so soon after starting.

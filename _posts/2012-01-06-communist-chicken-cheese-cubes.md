@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Communist Chicken Cheese Cubes
+tags: blog
 ---
 
 

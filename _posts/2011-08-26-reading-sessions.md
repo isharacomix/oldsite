@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Reading sessions
+tags: blog
 ---
 
 Ah, **Reading Sessions**. One of the single most important rituals of a Graduate Student's life, right next to fixing instant ramen. For those of you who aren't familiar with the concept or the terminology, a reading session is where a group of students get with their advisor and one student presents a recent paper from a conference or journal to the group, usually done on a weekly basis.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Research is Hard
+tags: blog
 ---
 I saw a post on Slashdot about a website called
 [Scholarpedia](http://www.scholarpedia.org/article/Main_Page), and that launched

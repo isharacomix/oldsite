@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Undergrads Are Back
+tags: blog
 ---
 
 It's that time of year again... <em>orientation week</em>. The time when the bright-eyed freshman are exploring the university, the place that will become their home away from home for the next four to six years. Those were simpler times. The innocence... the sense of wonder and excitement... it sure takes me back...

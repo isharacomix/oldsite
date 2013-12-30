@@ -1,6 +1,7 @@
 ---
 layout: post
 title: DEFCON 2012 - The Fun I Didn't Have
+tags: blog
 ---
 
 I've been in a bit of a slump this week, as evidenced by the lack of writing here on the blog. The new semester begins on August 16, and the last few weeks of summer are a bit frustrating since I'm spending time trying to make work for myself until that time comes. Granted, I'll be going to a conference this weekend and participating in a panel discussion at the new Graduate Student Orientation when I get back, so I'll be kept fairly busy leading up to my next year of classes. Right now, though, things are fairly uninteresting. 

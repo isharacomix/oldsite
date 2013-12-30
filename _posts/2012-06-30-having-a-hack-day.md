@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Having a Hack Day!
+tags: blog
 ---
 ![Photo]({{ site.baseurl }}img/event_hackday.jpg)
 

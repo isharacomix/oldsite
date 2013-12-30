@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stir Frying!
+tags: blog
 ---
 
 Once again, it's another weekend where I put away the square cap and don the chef's hat and try my hands at the elusive art of fine cuisine. Last week, I gave fried chicken a shot, while this weekend, I gave another of my favorite dishes a go. While my philosophy is that you never need an excuse to prepare a meal with rice, stir fry still makes an excellent way to prepare a rice-focused dinner. So let's take a moment to talk about what I did, what I did wrong, and what I want to do next time.

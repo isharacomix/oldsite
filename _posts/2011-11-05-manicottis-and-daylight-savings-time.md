@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Manicottis and Daylight Savings Time
+tags: blog
 ---
 
 For a lucky few regions of the world, tomorrow marks the start of Daylight Savings Time! Or maybe it's the end. I can't remember which... all I know is that this is the fun one where we set our clocks back an hour and (as such) I get to sleep an extra hour! Hooray for me! To celebrate, I prepared manicottis.

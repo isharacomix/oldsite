@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Intro to Teaching
+tags: blog
 ---
 
 NC State seems to spare no expense to ensure that its students, be they Grads or Undergrads, Engineers, Businessmen, Scholars, or whatever falls in between, are well-equipped when they take that degree and walk off into the cruel, uncaring world. One of the many resources at our disposal is the [Preparing Future Leaders](http://www.ncsu.edu/grad/preparing-future-leaders/index.php) program. PFL is an initiative dedicated to training Grad Students and Postdocs in three very important fields - Teaching, Research, and all-around Professionalism. Today, I had my *Introduction to Teaching* workshop.

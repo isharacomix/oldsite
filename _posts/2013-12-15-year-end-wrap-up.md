@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Year End Wrap-Up
+tags: blog
 ---
 Since I've turned in my final paper and finished all of my grading, all of my
 responsibilities for 2013 have come to an end! I've still got a few more meetings

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: THATCamp Piedmont 2013
+tags: blog
 ---
 
 This past weekend, I partied hard at [THATCamp Piedmont 2013](http://piedmont2013.thatcamp.org/) over at UNC Charlotte. My first THATCamp was the [one held in RTP in 2012](http://rtp2012.thatcamp.org/), and being a veteran camper, I had an interesting perspective on the one I recently attended.

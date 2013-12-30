@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mas Manicottis
+tags: blog
 ---
 
 I finally finished off the rest of my manicottis this weekend. This has been quite a busy weekend for me, since I not only had my paper to write, but I also went for a run with some friends, and also attended my local IEEE section's planning retreat for 2012. Lots of fun to be had, but since this is the weekend, and since the weekend is for discussing my crazy kitchen adventures, we're going to attempt to stay on topic.

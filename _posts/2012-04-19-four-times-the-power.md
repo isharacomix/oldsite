@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Four times the POWER!
+tags: blog
 ---
 
 ![Photo]({{ site.baseurl }}img/computer_ram.jpg)

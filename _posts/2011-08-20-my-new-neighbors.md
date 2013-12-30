@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My New Neighbors
+tags: blog
 ---
 
 Whenever you move into a new neighborhood, it's always a good idea to find out who your neighbors are (and eventually introduce yourself). It's good citizenship and makes your life a lot more pleasant. So I did a [tag search for "phd"](https://en.wordpress.com/tag/phd/) and found out the other folks hanging out here on WordPress that blog about the things that I do. In what I would consider to be good spirit, I've decided to follow their work (so I don't have to keep bookmarks on my local, volatile machine) and provide a link to their stuff here.

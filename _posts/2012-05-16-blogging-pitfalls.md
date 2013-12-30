@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Blogging Pitfalls
+tags: blog
 ---
 
 When I started this blog, I made a conscious decision to stick my real name all over it. Over the past year, I've been working on consolidating my online identity so that when people see my name in conference proceedings, there is no mistaking the fact that when they search for me, they find <em>me</em>. And this blog is really a fundamental part of who I am, which is why I make such an effort to ensure that it is visible to people who are trying to find out more about me. While this is all part of building a healthy brand, there are a number of pitfalls that I've considered, yet decided that the benefits outweighed the potential issues.

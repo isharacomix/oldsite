@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Theis Defense
+tags: blog
 ---
 
 When I started the Ph.D. program two months ago, I had already been to half a dozen qualifying exams, oral preliminaries, and thesis defenses. Because these are such major milestones in a Grad Student's career, I've decided to start going to these early on so that I know what I'm up against when my time comes a few years down the road. I went to another Ph.D. defense today, and since I don't have anything else to talk about (and my blog has recently experienced a serious deficiency of non-cooking related articles), I'll write about that.

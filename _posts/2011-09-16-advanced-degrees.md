@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Advanced Degrees
+tags: blog
 ---
 
 One big controversy in American higher education is the idea of grade and degree inflation. While there are a [number of notable exceptions](https://secure.wikimedia.org/wikipedia/en/wiki/List_of_college_dropout_billionaires), our culture seems to place such an emphasis on having a college degree that it makes it seem that, if you *don't* have one, you're unfit for anything except a day job at the grocery store, and essentially unemployable. So as it seems, nearly everyone has a degree in something - computer science... psychology... heck, I stopped by my bank and the gentleman there had a degree from NC State in Agriculture hanging behind him.

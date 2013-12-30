@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Another Cooking Class of Amazingness
+tags: blog
 ---
 
 

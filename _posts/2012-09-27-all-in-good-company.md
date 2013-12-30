@@ -1,6 +1,7 @@
 ---
 layout: post
 title: All in Good Company
+tags: blog
 ---
 
 *In today's episode of the required blog posts for the <a href="http://stars.csc.ncsu.edu/people/91/blog/">NCSU STARS Student Leadership Corps</a>, I go over my advice for success in Computer Science and beyond.*

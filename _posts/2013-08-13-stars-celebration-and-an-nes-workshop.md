@@ -1,6 +1,7 @@
 ---
 layout: post
 title: STARS Celebration and an NES Workshop
+tags: blog
 ---
 
 I'm quite excited this week! Not only is this the last week of summer before

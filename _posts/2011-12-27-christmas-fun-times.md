@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Christmas Fun Times
+tags: blog
 ---
 
 Merry Christmas and stuff! I can't believe it's been a whole week since my last post. I'm such a lazy grad student. But when I have all these new toys to play with, who can find the time to blarg? Not this guy! I can't even find the time to cook, I'm so absorbed by all of these fun little gadgets!

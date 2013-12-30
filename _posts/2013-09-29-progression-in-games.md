@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Progression in Games
+tags: blog
 ---
 
 I've been thinking about games lately, specifically on the idea of how progression

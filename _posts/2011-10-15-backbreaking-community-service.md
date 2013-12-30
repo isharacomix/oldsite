@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Backbreaking Community Service
+tags: blog
 ---
 
 Today was [National Wolfpack Service Day](http://www.alumniblog.ncsu.edu/2011/10/07/wake-county-alumni-have-20-events-for-service-day/), a day where NCSU Alumni, Students, and Faculty from around the nation get together to do volunteer work in their local communities. From helping with open house to picking plants in community gardens, today was a busy day in Wake County where we all got together to spend time in fellowship and community service. It was pretty cool.

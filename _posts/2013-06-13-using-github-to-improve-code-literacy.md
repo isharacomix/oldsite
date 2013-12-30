@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Using Github to Improve Code Literacy
+tags: blog
 ---
 
 Whenever we teach English classes, we don't just teach our students the grammar

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Software Freedom Day!
+tags: blog
 ---
 
 Today is [Software Freedom Day](http://softwarefreedomday.org), the annual celebration of the start of the [GNU project](http://gnu.org). Software Freedom Day has a very significant meaning to me, since it was when I actually learned about the *Free Software Movement*, the ethical and philosophical mindset behind what has been popularized as "open source" software.

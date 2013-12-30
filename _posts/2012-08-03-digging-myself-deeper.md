@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Digging Myself Deeper
+tags: blog
 ---
 
 ![Photo]({{ site.baseurl }}img/computer_surplus.jpg)

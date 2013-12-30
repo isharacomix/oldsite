@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Engineering Open House
+tags: blog
 ---
 
 ![Photo]({{ site.baseurl }}img/event_open_house.jpg)

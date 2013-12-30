@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mendeley to the Rescue!
+tags: blog
 ---
 
 After posting my <a href="http://isharacomix.org/2012/07/16/tag-youre-it">less than a week ago</a> begging for a system that would just let me tag things in Microblogging style, I can't believe that the program I've been looking for all this time just fell into my lap. Ladies and gentlemen, this program is called <a href="http://mendeley.com"><em>Mendeley</em></a>.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How do you assess your professors?
+tags: blog
 ---
 
 *This post was prepared as a response to the two papers <strong>College Students' Perceptions of How Instructors Convey Credibility (Myers and Bryant 2004)</strong><sup>1</sup> and <strong><a href="http://www.isetl.org/ijtlhe/articleView.cfm?id=115">How Do Faculty Experience and Respond to Classroom Conflict? (Meyers, et al. 2006)</a></strong><sup>2</sup> as part of the Fundamentals in Teaching Workshop: Establishing Authority and Credibility in the Classroom.*

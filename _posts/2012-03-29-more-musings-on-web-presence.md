@@ -1,6 +1,7 @@
 ---
 layout: post
 title: More Musings on Web Presence
+tags: blog
 ---
 ![Photo]({{ site.baseurl }}img/screen_blogchart_03_12.png)
 

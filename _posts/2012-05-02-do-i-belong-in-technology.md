@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Do I belong in technology?
+tags: blog
 ---
 
 ![Photo]({{ site.baseurl }}img/computer_oldandnew.jpg)

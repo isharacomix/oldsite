@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Beyond the Lab
+tags: blog
 ---
 
 I love working in the lab - nothing gets me more motivated to get things done than setting myself up in my cubicle. The environment and the people around me remind me that while I'm here, <em>this is working time</em>, which makes me less prone to procrastination and other forms of goofing off (not entirely immune, of course). However, sometimes I'm surprised by how often I see my peers in the lab. It seems like they spend their entire day there... sometimes even the entire night! I'd like to think that there's a point of minimum gains, where you go past the point of dedication and straight into absurdity.

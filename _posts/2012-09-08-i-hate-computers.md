@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I Hate Computers
+tags: blog
 ---
 
 I'm not kidding. Sometimes, I really hate computers. They are frustrating and childish devices, and they drive me absolutely mad sometimes. Just the other day, two of my three machines decided to fail on the same evening, and thanks to the thunderstorm we had, I ended up losing Internet access for the night. So being without Internet, I poured myself a glass of burgundy and starting to install <a href="http://xubuntu.org">Xubuntu</a> on both of them.

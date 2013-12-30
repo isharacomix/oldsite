@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Can we kill Business Casual?
+tags: blog
 ---
 
 *"Suitable attire is business casual..."*

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Teaching is Hard
+tags: blog
 ---
 I just got back from **Minecon** and I have to say, I had a blast. Not only did
 I get to hang out with other gamers interested in something that I liked, I also

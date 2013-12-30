@@ -1,6 +1,7 @@
 ---
 layout: post
 title: All work and no play...
+tags: blog
 ---
 
 I recently purchased a ticket for [Minecon 2013](http://www.minecraftwiki.net/wiki/MineCon),

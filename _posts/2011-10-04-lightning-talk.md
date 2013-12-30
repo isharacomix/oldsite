@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lightning Talk
+tags: blog
 ---
 
 I guess I caved into peer pressure this evening at my University's weekly LUG-meeting. No, I didn't do anything I'd be ashamed to admit - quite the opposite in fact... I gave a *lightning talk* for the first time. It was definitely an interesting experience, and since it's been a slow blogging week, I figure I should write about it while it's still fresh in my mind.

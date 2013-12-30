@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lovely Day for a Blackout
+tags: blog
 ---
 
 Earlier today, from 8 AM to 8 PM eastern time, I joined <a href="http://sopastrike.com/">thousands of sites and blogs</a> in protesting two controversial bills that are in consideration in the United States Congress, <b>SOPA</b> (the Stop Online Piracy Act in the House of Representatives), and <b>PIPA</b> (the PROTECT IP Act in the Senate).

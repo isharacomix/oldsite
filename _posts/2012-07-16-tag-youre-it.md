@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tag, You're It
+tags: blog
 ---
 
 I try to make it a point to read at least research one paper every night. Granted, this turns out to be a more ambitious goal than it sounds, because otherwise, I would have already read over 300 papers since starting my Ph.D. Of course, when I say <em>read a paper</em>, this isn't like the light reading that I do when perusing my favorite blogs. When I <em>read a paper</em>, it means that I usually have a highlighter in hand and my trusty <a href="http://www.zotero.org/">Zotero</a> window on the screen so that I can mark key points on the physical copy while writing a summary/reflection to be preserved on my computer indefinitely. Recently though, I've been playing with some different styles of keeping notes on the things I read.

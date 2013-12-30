@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pumpkin Piecakecookiesomething
+tags: blog
 ---
 
 It's the weekend again. This time, instead of making a hot and fancy dinner, I decided to do something a little different and fix up what were supposed to be Pumpkin Cookies. However, they were supposed to be cookies in the sense of brownies, where you bake them in a big pan and cook them up. They turned out really good, but turned into more of a cakish-pie thing than anything else. I owe this to numerous issues with my preparation.

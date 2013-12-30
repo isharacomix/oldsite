@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Who says nerds can't run?
+tags: blog
 ---
 
 I may be a sedentary, lazy, failure of a human being, but I still try to get out and work my legs. It's not healthy to sit in front of a computer all day, whether I'm an an Undergrad, a Ph.D. student, or whatever. As living things, we are made to move!

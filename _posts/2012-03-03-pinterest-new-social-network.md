@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pinterest - new social network?
+tags: blog
 ---
 
 I'm pretty slow on the uptake, but I just recently heard of a little site called <a href="http://pinterest.com">Pinterest</a>. From what I can tell, it's like a cross between <a href="http://twitter.com">Twitter</a> and <a href="http://reddit.com">Reddit</a>. Started back in 2010, apparently it's the "new thing" for 2012, since things seem to be picking right up now. I just saw one of my friends on the Facebooks join the site, and Wordpress just added "pin it" buttons for posts (which you'll see at the bottom of this one, by the way). So naturally, I decided to dive right in and take a look at what all the hubbub was about.

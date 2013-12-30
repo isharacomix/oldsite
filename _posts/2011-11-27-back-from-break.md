@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Back from Break!
+tags: blog
 ---
 
 Sorry for the week-long hiatus. I've been busy wrapping up my school year with final projects and exams and whatnot, and Thanksgiving has come and gone as well. Despite all the craziness, I'm still here, I'm still going to get my Ph.D., and I'm still baking cookies. Check it out, fools: chewy lemon cookies.

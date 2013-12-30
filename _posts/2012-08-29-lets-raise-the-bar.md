@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Let's Raise the Bar
+tags: blog
 ---
 
 The semester has begun. Classes are in session. I'm teaching. I'm reading papers. I'm helping with clubs. The beginning of the semester is always full of planning meetings about every little thing, and I generally like these kinds of meetings, since they give me a chance to interact with my colleagues and find out what sort of world-changing research they're doing. I've even been to a couple of Preparing Future Leaders workshops this semester - and it's great to go to them with the perspective of a Teaching Assistant now! But somehow, even though it's only been a year, it's beginning to feel somewhat stale and routine. What was once new and exciting doesn't have that same ring to it anymore.

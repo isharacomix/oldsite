@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I'm Everywhere!
+tags: blog
 ---
 
 I'm *everywhere*, yet *nowhere*. Just how many websites am I on, anyway?

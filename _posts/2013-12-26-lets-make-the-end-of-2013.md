@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Let's Make - The End of 2013
+tags: blog
 ---
 During Thanksgiving, I tried out the [whole livestreaming my development thing](http://isharacomix.org/2013/12/02/twitch-post-mortem) and was pretty happy with the results. In the meantime, I've been doing some research into the game development community and discovering that developers streaming their work on Twitch is not as unusual as I first thought it was.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Stress of Deadlines
+tags: blog
 ---
 From what I can tell, grad school is basically a trial of stress management.
 Research, teaching, classwork, papers, dissertation... dealing with the stressors

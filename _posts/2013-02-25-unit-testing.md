@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Unit Testing
+tags: blog
 ---
 
 So I teach the lab segment of Software Engineering, a Junior-level course for Computer Science majors, and the entire course is basically divided into a lecture about software engineering theory (test-driven development, requirements engineering, and security) and a semester-long, persistent course project called iTrust.

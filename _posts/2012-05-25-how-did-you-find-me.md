@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How did you find me?
+tags: blog
 ---
 
 One of my favorite features of Wordpress is getting to see what kinds of search terms lead people to my blog. I've been flattered, amused, and in some cases horrified by the terms people have used to find my little corner of the Internet. So since I haven't got anything better to write about, I'll provide my breakdown on a few of the search terms have led people to my blog, and my interpretation of them.

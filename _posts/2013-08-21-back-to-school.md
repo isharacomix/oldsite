@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Back to school!
+tags: blog
 ---
 
 Today was the first day of my third year in the Ph.D. program! Time to take a

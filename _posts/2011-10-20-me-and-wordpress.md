@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Me and Wordpress
+tags: blog
 ---
 
 Let me just start by saying, I love Wordpress. Open Source is the way to go and *Code is Poetry*. Whenever my friends start talking about starting blogs, I always jump on their backs and say WORDPRESS WORDPRESS WHAT ARE YOU WAITING FOR!? When you use Wordpress, after all, everyone wins! You get one of the most beautiful-looking blogs on the net, and you ALSO support Open Source developers so they can keep Wordpress beautiful. It's a vicious cycle, but in a good way. Like most things, it is not entirely perfect.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I'm kind of shy...
+tags: blog
 ---
 
 So for those of you who don't keep track of calendars, yesterday was Valentine's Day, and once again, I spent it eating lots of ice cream and watching anime. While the romantic hijinks were kept to an unfortunate minimum, other social events of blog-worthy interest still managed to occur, and shall be the topic of today's writing. Wooooo.

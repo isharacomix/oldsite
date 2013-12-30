@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An Observation in Data Mining
+tags: blog
 ---
 
 ![Photo]({{ site.baseurl }}img/screen_blogtags.png)

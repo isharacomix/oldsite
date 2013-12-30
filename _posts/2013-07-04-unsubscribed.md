@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Unsubscribed
+tags: blog
 ---
 
 Yesterday I unsubscribed from everything. Mailing lists, newsletters, social

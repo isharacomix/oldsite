@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I may be a closet Humanities major...
+tags: blog
 ---
 
 ![Photo]({{ site.baseurl }}img/event_thatcamprtp2012.jpg)

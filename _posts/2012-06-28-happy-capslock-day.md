@@ -1,6 +1,7 @@
 ---
 layout: post
 title: HAPPY CAPSLOCK DAY
+tags: blog
 ---
 
 TODAY IS THE <a href="http://capslockday.com">CAPSLOCK DAY</a> CELEBRATION.

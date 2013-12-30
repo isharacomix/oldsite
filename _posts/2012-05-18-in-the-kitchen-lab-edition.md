@@ -1,6 +1,7 @@
 ---
 layout: post
 title: In the Kitchen, Lab Edition
+tags: blog
 ---
 ![Photo]({{ site.baseurl }}img/food_labfood.jpg)
 

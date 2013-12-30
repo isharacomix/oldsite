@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Push and Pull
+tags: blog
 ---
 
 Recently, I stopped forwarding my posts from Twitter to Facebook, for good reason. Let's just face it, social networking has changed the way we work with the Internet in ways we never would have realized. This is a post I've been wanting to make for a long time that actually has connections to classroom technology, but I never really got around to writing it. Well, here we are.

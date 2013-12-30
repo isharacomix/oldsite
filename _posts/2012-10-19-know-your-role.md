@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Know Your Role
+tags: blog
 ---
 
 It seems that when you read the popular articles, the sentiment is that MOOCs are either going to destroy traditional Universities or they're going to fall flat on their faces. <a href="https://chronicle.com/blogs/wiredcampus/minnesota-gives-coursera-the-boot-citing-a-decades-old-law/40542">While Professors in Minnesota have nothing to worry about</a>, other institutions are at risk of being obsoleted by our new robotic overlords. After all, when a computer can do your job, for free, better than you can, what's your role in academic society? Just like in this political season, the middle ground is ignored, but not in today's session of the Research Reading Group.

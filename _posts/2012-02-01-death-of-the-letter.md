@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Death of the Letter
+tags: blog
 ---
 
 To my dearest readers:

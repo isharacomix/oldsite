@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Running a Lab
+tags: blog
 ---
 
 On Fridays, my lab has its weekly progress report meetings. I've taken on the

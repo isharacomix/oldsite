@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How ready are YOU?
+tags: blog
 ---
 
 ![Photo]({{ site.baseurl }}img/computer_ubuntu.jpg)

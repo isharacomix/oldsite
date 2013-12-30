@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bourbon, Blogs, and Bitter Roommates
+tags: blog
 ---
 
 This weekend I went all out and made something that I've wanted to make for a long, long time - Sweet Bourbon-Glazed Salmon. It's one of my favorite dishes to get when I go to the steakhouse, because it has such a unique and sweet twang to it. While looking for a recipe, I stumbled upon one of my [new favorite blogs](http://www.howsweeteats.com/2011/03/crispy-bourbon-glazed-salmon/). Be sure to check it out, it's a lot like mine, except the author doesn't pretend that her blog is about life as a Ph.D. student like I do.

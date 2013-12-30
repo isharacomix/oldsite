@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Good-bye, laptop...
+tags: blog
 ---
 
 The best part about starting a new blog is that I get to write about things that

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Disregard Ubuntu, Acquire Fedora
+tags: blog
 ---
 
 I've been a hardcore <a href="http://ubuntu.com">Ubuntu</a> fan since I started my Undergrad career, and it's been a fun ride, but I've finally reached the point where I'm just tired of dealing with it, and have switched to <a href="http://fedoraproject.org">Fedora</a>. The latest changes to Ubuntu have gotten me completely fed up with the way that the community is running things, and their insistence on introducing new features is making it harder and harder for me to get any work done. I generally prefer to keep the OS as close to the default as possible, so that upgrades and reinstallations don't end up becoming a jarring experience for me. However, lately, it seems like it's more work for me to keep my OS the way I like it, and while I was open-minded enough to give Unity a shot, Ubuntu and I are going in completely different directions now, and there's no point in clinging to it any longer.

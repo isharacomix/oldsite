@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Running a Reading Group
+tags: blog
 ---
 
 ![Photo]({{ site.baseurl }}img/event_reading_group.jpg)

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Communication, Technology, and Stuff Like That
+tags: blog
 ---
 
 This evening, the Women in Engineering Affinity Group for the local section of the IEEE hosted a great talk by Daun Daemon and Jamie Larsen, two of the professional writing instructors at NC State who I can only imagine are responsible for developing ENG 331, <em>Communication for Engineering and Technology</em>, a course required for all Computer Science undergraduates at NC State. It's basically an introduction to professional writing for folks who are expected to pursue a job in industry. In my case, it was a bit of a  poor prediction - I probably could have used a more research-oriented course to prepare me for the paper I have due in three days, but back then, I didn't even know I wanted to get a Ph.D., so I guess I'll let it slide.

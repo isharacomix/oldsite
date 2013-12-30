@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Beyond the Discipline
+tags: blog
 ---
 
 This evening, I had the pleasure of going to not one, but <em>two</em> IEEE events this evening. The first, was a highly technical meeting on disaster recovery, hosted by our Computer Society Chapter, while the second was a decidedly non-technical meeting with our PACE Chapter on how the hiring process works from an HR point of view. Can you guess which one I enjoyed more?

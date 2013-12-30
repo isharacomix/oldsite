@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I'm in love (with Wordpress)
+tags: blog
 ---
 
 Every once in a while, Wordpress goes and does something that <a href="http://isharacomix.org/2011/10/20/me-and-wordpress">makes me want to write a post about them</a>. I was originally pretty angry that they killed the Read-o-Mattic, since I loved that tool - it was so easy to add blogs to my dashboard and read them when research was slow. While it's possible for me to use my desktop RSS feed reader, I follow way too many blogs for that to be particularly useful for me. I didn't particularly like the <a href="http://wordpress.com/read">read blogs</a> section of Wordpress before, but I'm starting to like it now.

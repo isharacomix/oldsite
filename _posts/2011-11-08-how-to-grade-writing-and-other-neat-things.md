@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Grade Writing and Other Neat Things
+tags: blog
 ---
 
 Yesterday I attended another one of my University's fun-filled <a href="http://www.ncsu.edu/grad/preparing-future-leaders/teaching-programs/fit/index.php">Fundamentals in Teaching workshops</a>, this time - one that covered the tricky world of how to effectively give feedback to writing assignments in a way that actually helps the student improve. I'm sure that anyone who's been through a US High School English class has had the pleasure of doing "peer review", which often turns out to be little more than an opportunity for you to watch another student circle every grammar mistake they can find, along with a fairly empty "GOOD JOB" tacked on to the end. No matter how much red ink they covered the paper with, it would probably fail to give you any idea on how to make the paper any better when it was time to turn in the final draft - it certainly is a good thing that the teacher did some feedback before that time, right?

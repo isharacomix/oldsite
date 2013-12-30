@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Teaching Philosophies for Computer Science
+tags: blog
 ---
 
 These past few days, I had the pleasure of attending three seminars held by various Computer Science instructors around the country (one of whom was a former instructor of mine while he was a Grad student!), and I got to hear some really awesome talks regarding their experiences and philosophies of Computer Science Education. Each speaker shared with us some of the techniques they like to use in class, discussed their guiding principles, and gave a short sample of a lecture that they would give in one of their classes. Of course, these talks managed to fill up three of the required eight seminars I have to go to during the course of my Ph.D. (only two to go, by the way). However, their value was really in how much insight they provided on how teaching Computer Science is a very different beast than some other subjects.

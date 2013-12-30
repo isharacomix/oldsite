@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I don't want to miss out!
+tags: blog
 ---
 
 We held a [#moocmoocbar](https://www.youtube.com/watch?v=94Oa22ij46M) this past

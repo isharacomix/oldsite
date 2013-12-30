@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Back from GMU!
+tags: blog
 ---
 
 For the past few days, I just had the pleasure of attending a MURI Meeting with some of the professors and grad students from my department. Even though I've just started and haven't really done anything profound, this is the second time that I've been flown out somewhere and offered food on someone else's dime. The meeting was very inspiring and has rekindled my motivation to get some cool stuff done.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Of Programming and Privilege
+tags: blog
 ---
 
 Given some of the

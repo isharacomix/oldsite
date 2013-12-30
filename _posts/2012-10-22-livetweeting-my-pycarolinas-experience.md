@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Livetweeting my PyCarolinas Experience
+tags: blog
 ---
 
 ![Photo]({{ site.baseurl }}img/screen_pycarolinas_tweets.png)

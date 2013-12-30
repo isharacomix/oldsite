@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello World
+tags: blog
 ---
 
 Hello, world! Welcome to my new blog, powered by the magic of

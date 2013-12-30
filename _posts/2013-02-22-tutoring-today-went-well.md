@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tutoring today went well!
+tags: blog
 ---
 
 I'm a member of a service learning group at NC State called [STARS](http://stars.csc.ncsu.edu/), and in that group, I do lots of fun stuff like research and mentoring. While most STARS students are doing their own thing, most of us come together to provide tutoring hours for students taking 116 and 216, the first two Java classes that Computer Science students take in our department.

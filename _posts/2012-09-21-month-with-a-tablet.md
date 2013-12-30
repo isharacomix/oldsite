@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Month with a tablet
+tags: blog
 ---
 
 ![Photo]({{ site.baseurl }}img/computer_nexus7_keyboard.jpg)

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pitched 8bitmooc to duke21c
+tags: blog
 ---
 
 Today I pitched the #8bitmooc project to my #duke21c class and - for the most part - it went over well. Nobody thought it was a *terrible* idea, and most of the questions that were asked were for elucidation and not to instill criticism. For a business pitch, it went well, since I managed to cover the highlights of the project without getting too technical. I brought up what really mattered:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Maximal Game Design
+tags: blog
 ---
 I don't think I've ever made much of a secret that I'm a huge fan of Roguelike
 games. At least, in theory, I'm a fan, since I've never successfully made a

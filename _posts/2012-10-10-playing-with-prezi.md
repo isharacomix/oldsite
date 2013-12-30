@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Playing with Prezi
+tags: blog
 ---
 
 You know what I haven't done in a long time? Complain about technology. Since all the celebrity talks last week came to an end, there hasn't been much to write about because my life is wholly uninteresting. However, as it turns out, I'm going to be <em>presenting</em> at a local conference soon! Based on all the great things I learned over the past few weeks from the Digital Humanities people I've come to love so much, I'll be talking as if I know something about Computer Science Education at <a href="http://blog.pycarolinas.org/">PyCarolinas</a> next weekend. And like every good presenter, I'm going to use something that <em>isn't</em> PowerPoint.

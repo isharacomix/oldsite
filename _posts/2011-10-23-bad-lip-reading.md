@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bad Lip Reading
+tags: blog
 ---
 
 This weekend, I really wanted to cook some Manicotti, but unfortunately, it was all sold out, so I settled on making Lasagna again. It was still good. Apparently I didn't let it cool long enough, since once again, it plopped all over my plate without me being able to cut it into squares. Failure. Delicious Failure. So instead of talking about my dinner, I'll talk about the music I was listening to while I cooked it.

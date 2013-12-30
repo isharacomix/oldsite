@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MATHCOUNTS
+tags: blog
 ---
 
 Today I volunteered as a scorer for the <a href="http://mathcounts.org">MATHCOUNTS</a> mathematics competition. MATHCOUNTS is a pretty awesome project where middle school students essentially get together and take math tests in a big contest to see who is capable of doing intense problem solving under heavy pressure. My responsibilities were focused on taking care of scoring the written rounds.

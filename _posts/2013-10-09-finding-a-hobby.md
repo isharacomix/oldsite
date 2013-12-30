@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Finding a Hobby
+tags: blog
 ---
 All work and no play makes Barry lose his mind and adversely affects his
 physical health. I've been so ridiculously stressed out this month, and

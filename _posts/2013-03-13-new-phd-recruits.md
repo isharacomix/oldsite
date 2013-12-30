@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New Ph.D. Recruits
+tags: blog
 ---
 
 I haven't blogged in such a long time. Between coding #8bitmooc, attending SIGCSE, and all that fun stuff, I just have not had the time. I figure I should at least write about something, though...

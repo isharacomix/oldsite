@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cupcake Burgers!
+tags: blog
 ---
 
 ![Photo]({{ site.baseurl }}img/food_cupcake_burgers.jpg)

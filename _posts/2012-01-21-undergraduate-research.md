@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Undergraduate Research
+tags: blog
 ---
 
 So today, there was supposed to be a Graduate Research Symposium for our Computer Engineering departments, but I went when they said to be there and didn't see anyone else there at all. I was about to head home, but as one would expect, another few people came in looking for the same thing. We were all a little disappointed that we weren't going to <del>get any free food</del> see the presentations by researchers in our departments that day, but as luck would have it, we still managed to have a good time. See, they were both undergraduates, coming to the event to get some insight into a possible future in research, and I was going there to meet new people. While there was no symposium or presentations, I had the pleasure of sharing some of my insight about how to get an early start on research and how to direct your studies to have a good Graduate School application.

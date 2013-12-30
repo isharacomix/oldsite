@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What's up with Ranking?
+tags: blog
 ---
 
 For those of you who haven't noticed, I'm now participating in assisting Google with tracking your behavior on my website. If you scroll all the way to the bottom and check out the right corner, you'll see a big <b>+1</b> button along with a link to my Google+ profile. So why would I do this? I'm no friend of Google's. Why would I do something so heinous?

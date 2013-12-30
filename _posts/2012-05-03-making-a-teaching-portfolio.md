@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Making a teaching portfolio
+tags: blog
 ---
 
 The Professor's responsibilities are threefold - research, service, and teaching. While the Curriculum Vitae covers the full breadth of events in the Professor's professional life, it does not give much insight into the depth of their work, which can make it hard to evaluate them as academic professionals. The teaching portfolio is a carefully-built personal statement of the <em>depth</em> of a Professor's teaching career, allowing an opportunity for the individual to reflect on their teaching history, incorporating their observations along with supporting evidence into a single work that speaks for their excellence in the classroom. I just finished taking Dr. Barbi Honeycutt's <a href="http://www.ncsu.edu/grad/preparing-future-leaders/teaching-programs/index.php">workshop on building a teaching portfolio</a>, and there were a few things that I wanted to reflect on myself.

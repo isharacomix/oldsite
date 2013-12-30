@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Achievement Get!
+tags: blog
 ---
 
 So apparently Wordpress is going to start motivating me to write more by giving me "milestones" to post for. This marks my 45th blarg entry. Hooray! To celebrate, my brother and I made some Candy Sushis! Inspired by the fine folks at <a href="https://www.youtube.com/watch?v=MvUku7zAXVE">Epic Meal Time</a>, I bought more candy last night than I've bought since I moved into my apartment. I think this little snack easily exceeded the sweetness level of the Butterscotch Bourbon Bars I made a few months back.

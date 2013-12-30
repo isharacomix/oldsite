@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Forefront of My Mind
+tags: blog
 ---
 
 One thing that irks me is that I often sit on an idea for a blog post for a while, only to realize that a week has gone by and writing something about it at that point is just going to make it obvious that I'm distracted and I have no idea what I'm doing with my life. Just because it's true doesn't mean I want it to be obvious. For example, this past April, I got to go to a Celebration of Graduate Success at my University, yet I completely failed to write a post about it. Posting about it today would be kind of silly - unless I decide to embed my post into a regretful post about keeping things in the forefront of my mind.

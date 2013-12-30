@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Django Template Syntax
+tags: blog
 ---
 
 Something that I find infinitely interesting is how the usage of the programming

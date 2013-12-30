@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Opensource.com
+tags: blog
 ---
 
 *Comment and ye shall receive...*

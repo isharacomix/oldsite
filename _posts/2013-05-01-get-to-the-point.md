@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Get to the Point
+tags: blog
 ---
 
 I'm currently wrapping up my final project for my English 890 course at Duke

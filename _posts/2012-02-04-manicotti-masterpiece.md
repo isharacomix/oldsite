@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Manicotti Masterpiece
+tags: blog
 ---
 
 ![Photo]({{ site.baseurl }}img/food_mega_manicottis.jpg)

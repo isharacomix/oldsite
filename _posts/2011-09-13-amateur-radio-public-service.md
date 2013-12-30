@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Amateur Radio Public Service
+tags: blog
 ---
 
 Yesterday, I went to the [OCRA](http://ncocra.org) meeting and finally secured my free year of membership with them. It's always a pleasure to hang out with the other hams, even though I still haven't gotten around to buying a radio and learning how to work it yet. However, the material that was covered at last night's meeting helped reinforce my interest in getting more involved in the hobby, since he was talking about how local hams can use their hobby to assist in public service events.

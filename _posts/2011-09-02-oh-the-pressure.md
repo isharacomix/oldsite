@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Oh, the pressure
+tags: blog
 ---
 
 So between all the fun of LaTeX and classes, the research responsibilities have been piling on. I've been an official Research Assistant for about two weeks now, and already I've been charged with all sorts of software development and management. Roughly speaking, my duties at the moment include polishing a bunch of really slapped together scripts into a presentable and usable application, and then doing my own exploration to make it even better than it already is.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: IEEE Picnic
+tags: blog
 ---
 
 The [Eastern North Carolina Section of the IEEE](http://sites.ieee.org/encs) had their annual family outing yesterday... this year, they went to the [Raleigh Museum of Natural Sciences](http://naturalsciences.org/) for food, fun, and friends. I was there as a volunteer, helping greet people, hand out food vouchers and name tags, and generally just being an expendable peon to help where help was needed. The event was mostly a "come see the museum and grab a free lunch" event, so my help wasn't greatly needed, though my availability was certainly appreciated by the folks there!

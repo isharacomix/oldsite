@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Everything old is new again
+tags: blog
 ---
 
 As I said before, it's an interesting experience attending the <a href="http://isharacomix.org/2012/08/17/teaching-after-all">Fundamentals in Teaching</a> workshops again now that I can put them in the context of a class that I'm actually teaching rather than trying to imagine what it would be like without having that experience behind me. It opens a brand new lense, and while I got off to a rocky start, I can see that being through the workshops made me more prepared for this challenge than many others would be. While I've been wanting to teach simply for its own sake for a while, one of the best things about me teaching now is that I finally get a chance to participate in the <a href="http://www.ncsu.edu/grad/preparing-future-leaders/teaching-programs/coat/">Certificate of Accomplishment in Teaching Program</a>.

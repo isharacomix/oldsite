@@ -1,6 +1,7 @@
 ---
 layout: post
 title: IRC and Communities
+tags: blog
 ---
 
 A key part of just about any online community is its discussion forum. Whether it's a forum built into Moodle for a class or the phpBB installation for an Open Source Game, forums make up one of the most common forms of communication for people online. Unlike live chat rooms, forums allow asynchronous communication between people who may be in different timezones or who have conflicting work schedules, and because contributions on a forum are threaded, the discussion becomes an (admittedly difficult-to-read) piece of lasting documentation that can be referenced by the community. Apparently the forum is a very successful form of communication because they always seem to have plenty of people willing to participate.

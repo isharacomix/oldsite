@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On to the next level!
+tags: blog
 ---
 
 So the semester is over! Good job, everyone! Thanks for playing!

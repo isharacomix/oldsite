@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Thus Begins Year Two
+tags: blog
 ---
 
 [A year ago](http://isharacomix.org/2011/08/17/day-zero), I attended the NC State New Graduate Student Orientation. Even though I did my Undergrad at State, Orientation was an excellent introduction to the culture of Graduate School, and the folks in charge did an excellent job of delivering all of that information in just a single day. One of the best parts of the orientation was the panel of Graduate Students who fielded questions from the audience about life in Grad School. Today, I attended the Orientation again... but this time, as a member of that panel.

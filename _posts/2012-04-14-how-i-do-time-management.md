@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How I do time management
+tags: blog
 ---
 
 It's been a while since I've written anything, but it's because the end of the semester is nigh, and as they say, it's <em>crunch time</em>. I'm working on a paper, I'm wrapping up course projects, and I'm going several days a week without any sleep. That's just a day in the life of a graduate student, though, right?

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Another one bites the dust!
+tags: blog
 ---
 
 And just like that, the first month of the year is gone. I've been through three weeks of classes so far, while slowly molding my paper into the next big contribution to Computer Science. I'm obviously going to rock the foundations of the discipline with this work. I'll even be making a poster and showing off all of my amazing science to the rest of the University at our Graduate Research Symposium.

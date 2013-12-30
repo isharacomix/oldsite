@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Visiting the PHD Lab
+tags: blog
 ---
 
 Where to begin?

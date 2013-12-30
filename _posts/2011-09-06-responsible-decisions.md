@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Responsible Decisions
+tags: blog
 ---
 
 Making responsible decisions is frustrating.

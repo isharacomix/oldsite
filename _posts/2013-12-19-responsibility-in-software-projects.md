@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Responsibility in Software Projects
+tags: blog
 ---
 As a programmer, I respect Github for running the bleeding edge of its software on its servers. For example, Github pages - the engine that renders and hosts this website - is constantly being updated. This is how you find bugs and make software better. It's the open source way. *I get that.* I'm a hacker, so I like playing with things that might not be fully working because *that makes them better*.
 

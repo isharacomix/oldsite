@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Twitch Post-Mortem
+tags: blog
 ---
 I took part in the [TV Tropes Game Jam](http://kleinroguelikes.blogspot.com/2013/11/tvtropes-game-jam-2013.html)
 last week, and used it as an opportunity to try out my idea of livestreaming

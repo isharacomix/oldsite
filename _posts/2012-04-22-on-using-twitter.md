@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On using Twitter
+tags: blog
 ---
 
 ![Photo]({{ site.baseurl }}img/screen_twitter.jpg)

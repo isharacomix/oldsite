@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Summer freeLearning Conference
+tags: blog
 ---
 
 So I passed my Qualifying Exam on Wednesday, and to celebrate, I went with one of my professors to the <a href="http://lts.appstate.edu/summer-freelearning-conference-2012">2012 Summer freeLearning Conference</a> that was held at Appalachian State University. It was quite an interesting experience, and like the NCTech4Good conference held a few months ago, this conference was basically dedicated to <em>applying</em> technology, but in the classroom rather than in the non-profit sector.

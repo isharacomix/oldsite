@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Exercises in Technical Writing
+tags: blog
 ---
 
 One of the funny things about being a Ph.D. student is that you're supposed to be an independent adult capable of doing your own research, yet you still find yourself clinging to your advisor in hopes of validation and feedback on your work. Whether it's inexperience or insecurity, part of the Ph.D. "growing up" process is learning how to assess your own writing so that you can honestly say whether or not you buy what you've written. Unlike Undergrad, nobody is going to give you a grade and a cute little sticker that tells you that you're a star - you need to be able to evaluate your own writing and notice the flaws in it before anyone else does. So when I was writing my first paper, here are the exercises that my advisor gave me to identify some of the big flaws in my technical writing.

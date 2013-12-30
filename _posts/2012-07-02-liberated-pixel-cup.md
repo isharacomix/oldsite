@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Liberated Pixel Cup
+tags: blog
 ---
 
 Last month, the artistic round of the <a href="http://lpc.opengameart.org">Liberated Pixel Cup</a> ended, and I must say I'm quite pleased with the results! The LPC is a two-month game development competition split into two phases. June was the art phase, where Free Software-minded artists developed game graphics to be used in phase two, the programming phase, where Free Software-minded programmers would try to build games in hopes of prizes and prestige.

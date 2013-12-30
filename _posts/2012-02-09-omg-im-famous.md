@@ -1,6 +1,7 @@
 ---
 layout: post
 title: OMG I'M FAMOUS
+tags: blog
 ---
 
 So I went to another one of those super-fun <b>Preparing Future Leaders</b> workshops that I keep talking about, and I was greeted by our presenter telling me that I was famous.

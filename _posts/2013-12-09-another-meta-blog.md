@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Another Meta-Blog
+tags: blog
 ---
 I'm not sure why I have this tendency to spend so much of my blogging time
 blogging about my blog. It seems kind of strange, but I can't seem to help myself,

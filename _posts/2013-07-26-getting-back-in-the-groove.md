@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Getting Back in the Groove
+tags: blog
 ---
 
 EDM and AIED were some awesome conferences, but were still no match for the

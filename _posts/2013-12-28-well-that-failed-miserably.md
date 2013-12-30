@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Well, that failed miserably
+tags: blog
 ---
 So, originally I was going to try to [stream a game for the end of the year](http://isharacomix.org/2013/12/26/lets-make-the-end-of-2013). I knew things were off to a good start when just a few hours after posting that story, *my computer stopped running*. I had to reinstall Xubuntu, and by the time I was done, it was 2 in the morning. I had planned to stay up late and work, but not like this.
 

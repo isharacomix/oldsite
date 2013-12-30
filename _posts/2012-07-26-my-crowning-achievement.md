@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Crowning Achievement
+tags: blog
 ---
 
 **Problem:** Write a C program that, given a string of words on standard input, will print the words in reverse.

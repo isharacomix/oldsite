@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Serendipity
+tags: blog
 ---
 One of my favorite books is John Seely Brown's *A New Culture of Learning*. He
 goes into some great detail on the idea of attention as a form of literacy,

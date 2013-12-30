@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Happy Birthday Cupcakes!
+tags: blog
 ---
 
 I baked some cupcakes for a friend of mine today, and as we know, I tend to prefer stovetop cooking to baking. Too much precision is required with baking - you have to get everything right during the preparation, and then wait 25-30 minutes for whatever you put together to come out of the oven. Unlike cooking, where you're free to tweak and nudge your recipe while it's hot, baking is more of a pass/fail kind of deal. 

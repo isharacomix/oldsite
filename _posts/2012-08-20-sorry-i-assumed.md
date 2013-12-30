@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sorry, I assumed...
+tags: blog
 ---
 
 *<strong>Update, December 2013</strong>: It's interesting how much more aware I've become of my own privilege since writing this article. For a modern take on this topic, please see <a href="http://isharacomix.org/2013/08/09/of-programming-and-privilege">this article written ironically in the same month a year later</a>*

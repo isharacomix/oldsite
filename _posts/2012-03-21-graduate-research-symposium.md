@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Graduate Research Symposium
+tags: blog
 ---
 
 The Graduate Research Symposium was held yesterday, and boy, was it a party. We had 178 Graduate Students from across the campus show up and bring a poster with the intention of letting everyone know why they decided to come to school for another two to four years of work. We had an excellent group of very smart people here, all representing the best of the University's research population. It was an honor getting to present my work on behalf of the Department of Computer Science, and I sincerely hope that others felt the same way.

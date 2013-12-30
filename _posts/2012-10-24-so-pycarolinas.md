@@ -1,6 +1,7 @@
 ---
 layout: post
 title: So... PyCarolinas
+tags: blog
 ---
 
 I have to make a confession. When I first saw <a href="http://pycarolinas.org">PyCarolinas</a> and volunteered to speak, my expectations weren't the highest. Given how my non-engineering conferences have been more satisfactory in recent times compared to the conferences that attract the more technical crowd, I had no idea it would be anywhere as rewarding as it was. As I said in my last entry, there is absolutely no way I can recap it here, so I'll direct you to my <a href="http://storify.com/IsharaComix/pycarolinas-unc-chapel-hill-oct-20-21">Storify</a> to see the livetweets of #pycarolinas. This entry is going to be a holistic account of my experience presenting and attending my first steps into the Python community.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Talk on Coursera
+tags: blog
 ---
 
 Today I had a chance to meet with someone who I would consider a celebrity as well as a person who has had a huge role in inspiring the research that I've decided to pursue - <a href="http://ai.stanford.edu/~koller/">Dr. Daphne Koller</a>, a professor at AI and the co-founder of <a href="http://coursera.org">Coursera</a>, a platform for delivering Massively Open Online Courses. If you don't recall, I <a href="http://isharacomix.org/2012/07/20/trying-out-coursera">took a course on Coursera this summer</a>, and it was a very interesting experience, but while Dr. Koller spoke about the Coursera model of teaching quite a bit, she also let us know about the data that they collect and how they use it to learn more about human learning itself. But more importantly, she signed my lab notebook!

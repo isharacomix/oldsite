@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Presentation, Success!
+tags: blog
 ---
 
 Well, I've done it. I've presented for the first time at an academic conference yesterday. Once again, this was the <a href="http://fc12.ifca.ai">Financial Cryptography 2012</a> conference being held in Bonaire, and I'm presenting on behalf of my colleague and labmate who couldn't make it to present it himself. I'm happy to say that I believe that I managed to give my presentation without horribly embarassing him, the University, or myself. I haven't done a whole lot of good presentations in my life, but I think this counts as one of the good ones.

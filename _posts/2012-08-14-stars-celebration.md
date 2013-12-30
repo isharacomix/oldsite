@@ -1,6 +1,7 @@
 ---
 layout: post
 title: STARS Celebration
+tags: blog
 ---
 
 This past weekend, I spent the last few days before the new semester in Hampton, Virginia at the <a href="http://www.starsalliance.org/celebration/2012/">STARS Celebration</a>, a conference/planning meeting for students and faculty participating in the <a href="http://www.starsalliance.org">STARS Alliance</a>. STARS is a pretty big project, scaling across dozens of schools from around the country, so one blog entry couldn't possibly cover all of the stuff they do.

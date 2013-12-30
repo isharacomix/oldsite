@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Putting it All Together
+tags: blog
 ---
 
 Today I got to attend a great talk by Dr. David Wright, a three-time graduate of the NC State Computer Science Department, which was unfortunately cut short due to a time conflict. He was discussing a problem that I was recently thinking about, which is the lack of cohesion in the Undergraduate Computer Science curriculum.

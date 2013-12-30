@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Single Sign-On and OpenID
+tags: blog
 ---
 
 ![Photo]({{ site.baseurl }}img/screen_openid.png)

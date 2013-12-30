@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Finished Moving In
+tags: blog
 ---
 
 I managed to get my domain name situated over here in tumblrland, so now I've officially moved out of Wordpress. It's been a fun ride, but I think it's time to move on.

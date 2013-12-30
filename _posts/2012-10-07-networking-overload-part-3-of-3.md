@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Networking Overload (Part 3 of 3)
+tags: blog
 ---
 
 *On Thursday, October 4, 2012, I went to three spectacular events held across Duke University and UNC Chapel Hill. I couldn't bring myself to try to fit them all into a single blog post. Today is the final post, recapping a meeting following the spirit of THATCamp this year.*

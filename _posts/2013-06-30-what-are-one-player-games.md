@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What are 'one-player' games?
+tags: blog
 ---
 
 When I read [Ian Bogost](http://twitter.com/ibogost)'s book *Racing the Beam*,

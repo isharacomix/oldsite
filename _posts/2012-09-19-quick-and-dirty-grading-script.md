@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Quick-and-Dirty Grading Script
+tags: blog
 ---
 
 As you probably know, I'm teaching this year, and one of the most boring parts of teaching is this matter of grading. You would probably think that since I'm teaching a high-tech Software Engineering lab section, the grading would be automated, but a major part of this course is writing documentation, which requires me to manually inspect each of the submissions. The the hardest part about grading online submissions is keeping track of the feedback I want to give the students - I want to make sure that my feedback (and point deductions) are consistent from student to student, so I whipped up a little script to make it easier for me.

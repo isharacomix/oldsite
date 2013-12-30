@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Coursera Wrap-Up Post
+tags: blog
 ---
 
 In all the excitement of getting to teach my own class this semester, I completely forgot to give a final report on <a href="http://isharacomix.org/2012/07/20/trying-out-coursera">the Coursera Course</a> I was trying out last month. So to make up for not posting anything this week, I'll write up everything I liked and didn't like about my Coursera experience.

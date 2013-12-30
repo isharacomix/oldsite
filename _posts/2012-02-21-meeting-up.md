@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Meeting Up
+tags: blog
 ---
 
 So I just got back from my first "Meet Up" event this evening, a social run in lovely downtown Raleigh, and I'd like to say, I kind of like the idea of that. It's great that there's <a href="http://meetup.com">a website</a> out there designed to facilitate the interaction of people with other people. Unlike the Fac... thing. I've already talked about it before, but most social networking sites are mechanisms for staying in touch, but hardly effective when it comes to meeting new folks. And for someone who spends all his time in the lab, I need all the help I can get when it comes to meeting new people.

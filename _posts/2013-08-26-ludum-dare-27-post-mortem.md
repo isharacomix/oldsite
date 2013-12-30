@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ludum Dare 27 Post-Mortem
+tags: blog
 ---
 
 Three cheers for me for my first successful Ludum Dare! And my first successful

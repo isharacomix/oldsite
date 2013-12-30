@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Looking Back and Looking Forwards
+tags: blog
 ---
 
 Today the <a href="http://alumni.ncsu.edu">NC State Alumni Association</a> and <a href="http://lib.ncsu.edu">NCSU Libraries</a> teamed up to give a tour of the library to former graduates with a focus on the amazing new technology that we make available to our students. I already went to this particular event last year (which I can't link to because the event predates my blog), but even though it's only been a year, there was a lot of new material worth checking out.

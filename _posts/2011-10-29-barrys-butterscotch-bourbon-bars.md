@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Barry's Butterscotch Bourbon Bars
+tags: blog
 ---
 
 It started innocently enough. I was at the store, wanting to make some caramel cookies, but couldn't find any caramel to cook with. So I bumped into a bag of butterscotch chips and recalled how much I love it. I figured that it would be good enough for a quick dessert, so I bought the bag and went home. While I was putting my groceries away, I bumped into that old bottle of bourbon that I used to make the glaze for my salmon, and thought about how funny "butterscotch bourbon" sounded. It turns out that if I'm crazy enough to think of it, then someone has already published a recipe for it, and with the magic of Google, <a href="http://www.erinsfoodfiles.com/2011/01/butterscotch-bourbon-bars.html">I found a recipe</a> for Butterscotch Bourbon Bars.

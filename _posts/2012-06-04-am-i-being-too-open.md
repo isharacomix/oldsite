@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Am I being too open?
+tags: blog
 ---
 
 I've recently been thinking about starting a GradWiki to go with my GradBlog. Basically, I thought it'd be cool to have a publicly available annotated bibliography that catalogues all of the articles that I've read (popular and scholarly), along with my comments and observations about them. By tagging articles and making them easily searchable, there's an immediate benefit to me, and there would probably be some benefit to others. Furthermore, it would be awesome to have a place where folks who are interested in the same subjects can weigh in with their opinions on the articles. However, while starting this little project up, I started having some second thoughts on the matter.

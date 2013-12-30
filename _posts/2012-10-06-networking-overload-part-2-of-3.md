@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Networking Overload (Part 2 of 3)
+tags: blog
 ---
 
 *On Thursday, October 4, 2012, I went to three spectacular events held across Duke University and UNC Chapel Hill. I couldn't bring myself to try to fit them all into a single blog post. Today's post is the second in the series, summarizing Dr. Thrun's talk on AI Cars and society.*

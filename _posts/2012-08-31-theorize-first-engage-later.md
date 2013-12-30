@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Theorize First, Engage Later
+tags: blog
 ---
 
 I've already mentioned that <a href="http://isharacomix.org/2012/08/01/irc-and-communities">I don't care much for forums</a>, and that i find them frustrating and overwhelming. They are too hard to keep up with, since they move in real time when you're away and not when you're present. I've recently found a pretty cool paper that lets me know that I'm not alone. The name of the paper is <em><a href="http://eprints.port.ac.uk/5606/1/Blogs_and_Forums_as_Communication_Tools_in_a_MOOC.pdf">Blogs and Forums as Communication and Learning Tools in a MOOC</a><sup>1</sup></em>, but don't let the title fool you, since it's more about learning styles and preferred means of digital engagement than MOOCs themselves.

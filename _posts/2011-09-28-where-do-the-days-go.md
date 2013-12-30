@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Where do the days go...
+tags: blog
 ---
 
 I swear, it feels like the week is already over by the time I turn my head twice. There's something about a grad student's schedule that makes the days go by before I realize they've arrived. I know time is supposed to pass faster for you as you start to get older, but I'm only 21! I'm in the prime of my life! What's going on here!? Could it be because I'm actually "working" now?

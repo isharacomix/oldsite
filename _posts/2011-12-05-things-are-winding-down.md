@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Things are winding down...
+tags: blog
 ---
 
 I just finished up my major networking group project today, completing yet another goal before my first semester of Grad School comes to a close. It certainly felt good to package up and upload that final archive for the professor. Now that nearly all of the loose ends are tied up, I can focus on the two biggest priorities I have left - my final exams, and my first paper.

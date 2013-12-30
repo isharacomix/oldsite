@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Oh my gosh... it's full of STARS!
+tags: blog
 ---
 
 *This is the first of my required bi-weekly blog posts for the STARS Student Leadership Corps, <a href="http://stars.csc.ncsu.edu/people/91/blog/">cross-posted from the NC State SLC Blog</a>. The topic was "New Year's Blog Post", where I was to talk about some of my low-level and high-level goals in STARS and beyond, along with other personal information about me.*

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Now it's November...
+tags: blog
 ---
 
 I can't believe I've already been a Grad Student for three months! In between the highs and lows of academic pride and utter hopelessness, I've managed to keep myself from dropping out and giving up for over half of a semester! Assuming that the Ph.D. takes me five years, that means I'm almost there!

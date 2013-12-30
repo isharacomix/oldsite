@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Playing Cards Across the Ocean
+tags: blog
 ---
 
 I love card games. Particularly trading card games. There's a certain joy that I get from carefully poring over my deck editor and trying to figure out how to prepare that *perfect* deck that will allow me to stomp my opponents in the ground as I bask in my own glorious victory. Except that I usually end up losing and tweaking my card setup after every single match. But that's OK, because I have fun! And even though it's enjoyable when playing against the computer, it's even more amazing when you're playing with other people!

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I get awfully jealous...
+tags: blog
 ---
 
 There's a bit of a saying among my colleagues about grades in graduate classes: "Getting a B is like failing, an A- is passing, and an A+ means you aren't doing enough research." In undergrad, we put tremendous emphasis on being the best among one's peers, giving latin honors to those of us who manage to get GPAs in the 3.5 and 3.75 ranges. Giving titles like "valedictorian" to anyone who manages to actually get a perfect 4.0, while admitting them into selective greek societies where the only real benefit is getting to say that you're a member and other people aren't. What it all amounts to is a bunch of resume padding that, to be perfectly honest, I don't believe any hiring manager looks at and takes seriously (yet I'm totally guilty of <a href="http://isharacomix.org/cv">resume padding</a> ^_^).

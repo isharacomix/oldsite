@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Netcologies
+tags: blog
 ---
 This weekend, I attended yet another conference - this time the [Ecology of
 Networks Symposium](http://sites.fhi.duke.edu/ecologyofnetworks/) held at

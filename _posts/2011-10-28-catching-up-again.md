@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Catching Up Again
+tags: blog
 ---
 
 I haven't been able to post recently since I've been really bogged down with research. My advisor is convinced that I am well on my way to writing my first technical paper. Considering that this is my first semester of the Ph.D. program, I think I'm doing pretty well for myself if I'm able to pick up this much momentum this early. It's been an overwhelming shift in responsibilities and expectations, going from undergraduate coursework to graduate research, but just as soon as I convince myself that I'm in over my head, I remember that there's really nothing else that I'd rather be doing.

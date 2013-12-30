@@ -36,7 +36,7 @@ terminal: True
       <div class="panel-body small">
         <h3>Recent Blogs</h3>
         <hr />
-        {% for post in site.tags['replay'] limit: 5 %}
+        {% for post in site.tags['blog'] limit: 5 %}
         <div>
            <strong><a href="{{post.url}}">{{ post.title }}</a></strong><br />
            <span class="date"><span class="glyphicon glyphicon-calendar"></span>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Motivation to Succeed
+tags: blog
 ---
 
 When it comes to motivating yourself to get through the hard times that crop up during the long road to the Ph.D., lots of counselors suggest that you build a personal network of other students and academics that will support you and hold you accountable for your progress. I suppose that there is some amount of psychology that supports the notion that we are less inclined to slack off out of fear of letting down the people who expect us to succeed. However, the extent to which this approach works depends on the person, and for me, it doesn't work too very well.

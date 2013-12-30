@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Roadmap
+tags: blog
 ---
 
 So the first week of classes have come to an end! I'm in an interesting situation where I have my main classes on Tuesday and Thursday, leaving Monday, Wednesday, and most of Friday open for research and homeworks. It might be challenging to cram all that lecturing into a 24-hour block, but I think I'll be able to strike a happy balance between my research and coursework commitments while still managing to save a few moments for myself.

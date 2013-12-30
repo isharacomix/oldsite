@@ -1,6 +1,7 @@
 ---
 layout: post
 title: One year later...
+tags: blog
 ---
 
 I FINALLY FINISHED MY EXAMS! *dies*

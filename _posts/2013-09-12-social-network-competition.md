@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Social Network Competition
+tags: blog
 ---
 
 Last night I was at a hack night in Carrboro, and we were talking about an

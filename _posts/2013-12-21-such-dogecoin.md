@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Such Dogecoin
+tags: blog
 ---
 You know, I was there when Bitcoin started. It was an innocuous post on Slashdot talking about this crazy dream some guys had. It was news when it hit dollar parity, and it took off like a rocket just recently. I missed that train, no big deal. Bitcoin interests me as a computer scientist and as someone with an interest in how computers affect human behaviors, and it's highly enjoyable to study the technical and social aspects to the phenomenon. But what I *never* expected to happen was the so-called "altcoin" craze. When I started looking at Bitcoins yesterday, I noticed *dozens* of Bitcoin competitors, all using the same underlying mechanics, but with much higher and faster payouts to reward early adopters. Since the source for Bitcoin is open, anyone can make an altcoin, and this is causing a pile of namespace pollution.
 
