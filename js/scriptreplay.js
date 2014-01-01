@@ -28,7 +28,6 @@ function Timer(callback, delay) {
 }
 
 
-
 function speed_normal(){
     if (stopped)
     {
@@ -79,8 +78,6 @@ function play_file(name) {
 
 function run_typescript(typescript_data, timing_data) {
   if (timer) timer.pause();
-  //document.getElementById("play").textContent = "pause";
-  //vt.clear();
   vt.refresh();
 
   var where = 0;
@@ -106,7 +103,6 @@ function run_typescript(typescript_data, timing_data) {
           timer = new Timer(me, time*1000*1/speed);
         } else {
           vt.write(typescript_data.substr(where, typescript_data.length-where));
-          document.getElementById("play").textContent = "play";
         }
       }, 0);
 }
