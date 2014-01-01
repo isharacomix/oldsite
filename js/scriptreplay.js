@@ -8,7 +8,7 @@ http://mister-muffin.de/scriptreplay/
 
 
 var vt, timer;
-var speed = 0.5;
+var speed = 1.0;
 
 function Timer(callback, delay) {
   var timerId, start, remaining = delay;
@@ -24,6 +24,20 @@ function Timer(callback, delay) {
   };
 
   this.resume();
+}
+
+
+
+function speed_normal(){
+    speed = 1.0;
+}
+
+function speed_fast(){
+    speed = 5.0;
+}
+
+function speed_stop(){
+    speed = 0.0001;
 }
 
 
