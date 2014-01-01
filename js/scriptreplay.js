@@ -44,7 +44,7 @@ function speed_fast(){
         stopped = false;
         timer.resume();
     }
-    speed = 5.0;
+    speed = speed + 2.0;
 }
 
 function speed_stop(){
