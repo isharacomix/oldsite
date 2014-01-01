@@ -9,6 +9,7 @@ http://mister-muffin.de/scriptreplay/
 
 var vt, timer;
 var speed = 1.0;
+var stopped = false;
 
 function Timer(callback, delay) {
   var timerId, start, remaining = delay;
@@ -29,15 +30,29 @@ function Timer(callback, delay) {
 
 
 function speed_normal(){
+    if (stopped)
+    {
+        stopped = false;
+        timer.resume();
+    }
     speed = 1.0;
 }
 
 function speed_fast(){
+    if (stopped)
+    {
+        stopped = false;
+        timer.resume();
+    }
     speed = 5.0;
 }
 
 function speed_stop(){
-    speed = 0.0001;
+    if (!stopped)
+    {
+        timer.pause();
+        stopped = true;
+    }
 }
 
 
@@ -61,29 +76,6 @@ function play_file(name) {
     request.send();
 }
 
-
-
-function play(evt) {
-
-/*  if (evt.target.textContent == "play") {
-    play_file("shelr-record.json");
-  } else if (evt.target.textContent == "resume") {
-    evt.target.textContent = "pause";
-    timer.resume();
-  } else if (evt.target.textContent == "pause") {
-    evt.target.textContent = "resume";
-    timer.pause();
-  }
-  */
-}
-
-
-function stop(evt) {
-  //document.getElementById("play").textContent = "play";
-  timer.pause();
-  //vt.clear();
-  vt.refresh();
-}
 
 function run_typescript(typescript_data, timing_data) {
   if (timer) timer.pause();
