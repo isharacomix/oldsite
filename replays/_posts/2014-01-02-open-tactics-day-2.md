@@ -149,8 +149,7 @@ I tried to capture as much as possible below.
       - interface
       - command
       - ui
-      - 
-
+    
     I could rename grid to "world" and then call the view the grid.
 
     I know what to do.
