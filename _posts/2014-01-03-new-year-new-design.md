@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Year, New design
+title: New year, New design
 tags: blog
 ---
 Happy New Year! Things sure look different around here, don't they? As you can
