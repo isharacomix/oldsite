@@ -1,0 +1,21 @@
+---
+layout: post
+title: Everyone's Connected
+tags: blog
+---
+
+The Ph.D. can, at times, be very lonely. By its very design, the Ph.D. is about doing something novel... something that nobody has ever done before. Even within a single department, colleagues who have all started with the same background eventually diverge into completely different paths. Quoting Richard Feynman, "I don't know anything, but I do know that <em>everything is interesting</em> if you go into it deeply enough." While I consider this one of the most fascinating aspects about Academia, the deeper you look into the field, the less people there are who can relate to it with the deep technical understanding you have.
+
+The world is a big place, and no matter how deep you delve into a subject or how many disciplines you pull together into your academic chimera of a thesis, there's bound to be someone out there who's doing something close enough to what you're doing to "get" you. Before the Internet, you might only meet these folks at conferences, but now, finding them couldn't be easier... if you know where to look, that is. Because of our ubiquitous connectivity, your undiscovered colleague might be the blog next door or tweeting right under your nose! It's a very exciting time to be a scholar. 
+
+November is coming up soon, known in writing circles as <a href="https://en.wikipedia.org/wiki/Nanowrimo">National Novel Writing Month</a>, or <em>NaNoWriMo</em>. Writers pledge to put together an entire novel during the month of November as a way to push their limits and attempt to produce something in spite of the challenge. But on a more subtle level, NaNoWriMo is also about community. Thanks to the Internet, novelists work together to keep each other accountable and motivated for their pledges, and bond by facing the same challenge at the same time - working independently and sharing their joys and their woes in the off-time. 
+
+Last year, PhD2Published co-opted NaNoWriMo as <a href="http://www.phd2published.com/2011/10/21/nanowrimo-as-acbowrimo-beta/">AcBoWriMo</a> (Academic Book Writing Month) with the same premise, but with a focus on the less romantic writing of scholars and scientists. This year, the game is on again, under the tag #AcWriMo, challenging us once again to set a goal and be productive. Whether it's a thesis or a monograph, a call to action has been made for us to put words to paper like there's no December.
+
+I'll be participating, but to me, it's not so much about the writing as it is about engaging the academic Tweeting and blogging community that I've fallen in love with since my interactions with the Digital Humanities scholars. I'm happy to say that now that I've worked Twitter into my workload, I don't just push my blog posts and read what others have to say - I get involved in the conversation by starring, retweeting, and replying. It feels good to actively participate in the Twitter Ecosystem, because that's the kind of usage that I find the most rewarding.
+
+How you use Twitter depends on who you are - while celebrities use it to throw bones to their hundreds of thousands of fans following them and political candidates use it to pummel us with irritating "vote for me" advertisements, we academics use it to follow and interact with the relatively small subcultures that develop around our highly eccentric research interests. As academics, we quickly converge to our cliques and share information among them, while the disciplinary scholars in our groups give us indirect connections to other cliques through their retweets. Hashtags allow us to follow important topics such as tools, conference backchannels, and challenges like #AcWriMo.
+
+My goal for #AcWriMo is to compose a manuscript for the <a href="http://hastac.org/opportunities/cfp-philosophy-and-technology%E2%80%99s-special-issue-online-security-and-civil-rights">special issue</a> of <em>Philosophy and Technology</em> on Civil Rights and Cybersecurity. Maybe it's a little on the light side, but at this early stage in my career, I think it's a reasonable and attainable goal. I'll do most of my "checking in" on Twitter, and maybe do a midterm evaluation here on the blog (depending on whether or not I'm having trouble coming up with blog post ideas).
+
+Here goes nothing!
