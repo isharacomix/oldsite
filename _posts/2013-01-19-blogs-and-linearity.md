@@ -1,0 +1,25 @@
+---
+layout: post
+title: Blogs and Linearity
+tags: blog
+---
+
+For a while, I've been feeling less than satisfied with Wordpress, and have tested the waters with Tumblr by making some smaller blogs for the classes I'm taking. I'm finding it to be lots of fun, but I don't think it's necessarily because I like Tumblr more than Wordpress. In fact, I think the biggest problem I'm having these days is the nature of blogging in general. It's a weird feeling, and I haven't written anything in a while, so I figure this would be as good a place as any to start.
+
+One of the reasons I started a blog was to give myself a project to keep me busy and to keep me writing since writing is something I intend to make a career of. I try to tell new grad students to start a blog as a way to get into the habit of articulating your words into text, since that makes up a good chunk of research and teaching. Granted, most blog posts are rants about one thing or another, not particularly well-cited or fact-checked. This post is a perfect example of what I'm talking about. In most cases, we turn to writing to help us express the things that befuddle and confound us. As we put our thoughts into words, the disconnects between various ideas become externally recognizable, allowing us to resynthesize our thoughts and come out of the process with a slightly better understanding of what was confusing us. This is what makes learning journals and diaries such valuable tools, and most blogs are simply extensions of this paradigm.
+
+Some blogs have themes to help contain and control the content that gets produced. By creating a challenge, like "writing one thing I accomplished today" every day for a year helps motivate and direct energy that would be otherwise unbridled and undisciplined. While this blog supposedly has the theme about being about my graduate life, I occasionally drift into talking about education or cooking or other silliness that has little to do with Grad School, and that's perfectly fine - it's my blog, and it's easy to see how the theme changes with my life. It's been a crazy ride.
+
+In this post, I refer to blogs as linear, but the best pictoral representation I can come up with is a line that loop-dee-loops around like a rollercoaster - going in one direction, but visiting prior points on the way to wherever it's going. One major component of blogs (and probably the greatest thing I took away from #moocmooc) is that as we write, we continually cycle back and refine the ideas we've had as we tack new entries on the end of the chain. When you go back and start reading the blog from the beginning, you get a chance to relive your thought processes, and  experience the feeling of having old expressions and new ideas crashing together in your mind. It's a great experience and helps drive ideas home.
+
+Yet I can't shake the feeling that there is something fundamentally wrong with this structure. I think there's a reason why "linear" is considered a "bad word" when it comes to game design, and I think I'm starting to see that with the idea of blogging.
+
+As you know, this blog also serves as the portfolio for my budding career as a researcher and educator. I like the idea of creating a 21st century portfolio where everything I do has a component of reflection to it, so I link the things I claim I've done, like conferences I've attended, to the blog entries where I cover those events in detail.
+
+What if my reflections change after I've attended the conference? While the report might not change, the lessons learned most certainly would. Should I alter the blog post? Should I post a revision? Am I expected to leave things on my blog in fixed form after writing them? All of that seems outdated to me. I believe that the best writing is done over multiple revisions of crafting and recrafting, where the essence of what needs to be read slowly takes its form under the watchful eye of the author(s).
+
+I see my blog as a project, but I treat it like a dumping ground. I pile blog entries on top of one another without cohesion, resulting in an undisciplined stream of consciousness. In <em>Minecraft</em> or a <em>MUSH</em>, I slowly carve a world out of the emptiness, building new frontiers on the edges and refining previous projects in the center. I work on a different part of the world in a different way depending on how I feel. Everything is connected, but in a sprawling web, not in a line. Why can't a blog be crafted and refined in the same way?
+
+What would a non-linear blog look like? Would it be a wiki? Does a wiki of ideas written by a single person make much sense when wikis are more traditionally used for collaborative endeavors? Or would it be a multi-threaded conversation? There is a reason why the features of Tumblr that attract me to it are those related to Asking and reblogging. Isn't answering questions and posting them inherently linear, or does the dynamic of having a conversation add extra dimensions that isn't apparent even when they are listed in chronological order?
+
+Does decoupling the element of time from the ideas take away what makes it a blog in the first place?

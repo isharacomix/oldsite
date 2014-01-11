@@ -1,0 +1,20 @@
+---
+layout: post
+title: A Week of Learning
+tags: blog
+---
+
+![Photo]({{ site.baseurl }}img/computer_raspberry_pi.jpg)
+
+
+I learned a lot of interesting things this week, participating in #moocmooc, getting a new computer, playing with Tumblr, and seeing the <a href="http://www.raspberrypi.org/">Raspberry Pi</a>. It wasn't an easy week, but it was most definitely a rewarding one, and I'm quite pleased that I had the chance to socialize, learn, and hack around, all while aligning all of the things I'm doing this semester with the research I intend to push forward this summer.
+
+So #moocmooc was fun. It would have been a more fun if life hadn't interfered, but I still enjoyed following the Twitter feed from the periphery. #moocmooc is a <a href="http://connectivistmoocs.org">Connectivist MOOC</a>, which sets it apart from Udacity and Coursera by focusing on getting people to interact with one another. Bareley structured with discussions emerging from the Chaos, it felt more like a conference than a course, with too many tracks to keep track of everything. When you think about MMORPGs like <em>World of Warcraft</em>, it's usually the case that rather than everyone playing a game together, it's like everyone is playing a game by themself, but in the same world. xMOOCs are a lot like that - the human interaction is usually surface level. cMOOCs seek to force people to interact, pushing them well out of their comfort zones. I didn't get to do much except chat on Twitter, but the activities included a massively collaborative Google Doc, making videos on Youtube, and curating Tweets for Storify. That's pretty impressive, and I still feel like I got a lot as an observer. I hope to be more interactive in the other MOOCs I'm taking, such as OLDS-MOOC and Intro to Openness in Education.
+
+I <a href="http://moocmooc.isharacomix.org">kept a Tumblelog</a> for the duration of my stay on #moocmooc, and for the most part, I really liked it. The cool thing about linking my Tumblelogs to my isharacomix.org domain name is that even if I decide to remove the tumblelog from Tumblr, the links don't die, but send people over to my blog instead, which is useful. Tumblelogs are very easy to archive, though I can't decide if it's good or bad to archive them in a static format like PDF when part of what makes the Internet so effective is its hyper nature. I'll leave it up for a bit, but I can't just get rid of it. Not now, at least.
+
+I got a new computer and bookshelf this week, so I had the pleasure of reorganizing my room to deal with the new space. I love reorganizing things, so I'll be entertained while I try to find an optimal way to arrange the room. I had a bit of a scare when I ended up disconnecting the power switch jumper for the new computer from the motherboard. I was pretty much convinced that I killed it, but I just had to remember not to be so impatient and to realize that my wealth of knowledge comes from the network of people that surround me. Once they woke up and were ready to share their wisdom, it became easy to identify the problem.
+
+On Thursday, we had the <a href="http://trilug.org/2013-01-10/Raspberry_Pi">Raspberry Pi</a> talk at TriLUG, and then had <a href="http://trilug.org/2013-01-12/Raspberry_Pi">a workshop</a> at Splat Space where Raspberry Pi pros helped the newbies get situated and shared the cool things they've been doing with the hackerspace community. This is what gave me the most ideas for classes I wanted to teach, including a low-level class where students write games in assembly, build their own handheld game console, and 3D-print a case to hold the hardware. It had a friendly atmosphere and I'm happy I made the time to attend. I even started learning <a href="https://www.djangoproject.com/">Django</a> to help set the stage for me to design my own MOOC platform.
+
+A week of ups and downs, where I took classes, taught classes, and thought about classes I wanted to design in the future, this was definitely a good start to 2013. I'm definitely looking forward to seeing where I go with this in the future!

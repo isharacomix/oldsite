@@ -1,0 +1,21 @@
+---
+layout: post
+title: Hunt Library Grand Opening
+tags: blog
+---
+
+![Photo]({{ site.baseurl }}img/event_hunt_seats.jpg)
+
+Today was the grand opening of the brand new <a href="http://www.lib.ncsu.edu/huntlibrary">Hunt Library</a> on NC State's Centennial Campus - home of the College of Engineering. Billed as a 21st Century Library to meet 21st Century needs, I have to say that it certainly has the potential to meet those expectations. Hanging out with my brother <a href="http://twitter.com/iharacomix">@iharacomix</a> and my friend <a href="http://twitter.com/leafstorm">@leafstorm</a>, I explored the space and <a href="https://secure.flickr.com/photos/91613542@N05/sets/72157632413405447/">took some pictures</a>, talking more about the potential for new things in the library than what we saw (which were mostly chairs).
+
+The first thing you notice about this library is how nearly everything has wheels. Chairs, tables, whiteboards, and nearly anything you can sit in or sit on can be moved around and customized. This is the first indicator that the space was created with students in mind. Each group of students has its own needs, and by not constraining the students, they can effectively customize the library's spaces to meet those needs. With little creativity, almost anything can be used as a study space - even the stairs are chairs.
+
+The technology is as impressive as it was intended to be. When entering the library you are greeted by a swirling LED sign that displays the latest tweets from the library Twitter account. There are technologies ranging everywhere from 3D printers that allow students to build their own machines to microfilm readers for looking at long-forgotten dissertations and theses. In addition to the collections of books available for checkout, there are also a number of multimedia sources of entertainment including DVDs and current generation video games. And of course, the robot that collects the books in the first place is an awe-inspiring sight.
+
+![Photo]({{ site.baseurl }}img/event_hunt_ideas.jpg)
+
+However, in spite of everything I saw, the most exciting and inspirational piece of technology I saw in the library was also the first thing I saw: the "Emerging Ideas" tables housed in the "Center for Emerging Issues" commons. Each of the tables had a number of issues in different categories, from Education to Health Care. You could pick an issue, and then provide an idea on how to solve it, adding your idea to the pool. Then, others could rate and comment the other ideas there, creating an informal, interactive, and social center for ideas on effecting change in society. While most of the other collaborative spaces were still under construction, this was the simplest example of a social, educational display that wouldn't be out of place in a public library or a museum.
+
+What I would have loved to see is an API for Hunt Library itself. Imagine if students actually had an interface where they could write Apps <em>for</em> the library, where students could launch the apps from any of the displays or study rooms in the building? Enterprising developers could leverage the touch screens and Microtile displays for any number of artistic, social, and educational purposes. A Jeopardy-style studying game in the iPearl Theater? Watching conference presentations with the livetweet feed ticking in the margins? Interaction between the library and mobile devices? Collection and curating students suggestions on how to improve the library? Give us the tools to add to the library! There is wisdom in the crowd, especially the crowd of Computer Science and Engineering students looking to make their mark on the world!
+
+In each of the spaces I saw, I envisioned students and researchers working together, making the most out of what the library was offering them. I imagined students holding study sessions and giving practice presentations. I imagined unconference attendees creating ad-hoc discussion spaces with the movable furniture. As nice as the architecture and technology that they were showing off is, it's all a waste if it doesn't bring people together for the purpose of learning. I hope that the library staff will be keeping a close eye on how students break the spaces in and make themselves at home, because I know I will.

@@ -1,0 +1,21 @@
+---
+layout: post
+title: Open the Floodgates
+tags: blog
+---
+
+Twitter is great because I'm able to follow the people that publish insightful things that I like to read. I'm able to follow the goings-on of the <a href="https://twitter.com/DukePhDLab">Duke Ph.D. Lab</a> and <a href="https://twitter.com/HASTAC">HASTAC</a>. I read the livetweets of the conferences that my colleagues are going to, the blog posts they write, and get inspired by just about everything that I see in my stream. The only problem is that I generally agree with <em>everything I see in my stream</em>.
+
+There's a phenomenon referred to as the <a href="https://en.wikipedia.org/wiki/Filter_bubble">Google Bubble</a>, where when "smart" searching algorithms learn your preferences, they will forward you to articles that you naturally agree with. So if you happen to be a hard-line Republican who is looking up information on the 2012 election, anti-Obama blog posts and articles from conservative news outlets. If you're a hippie Democratic communist, on the other hand, you'll be directed to articles talking about how awesome Obama is and how the next four years are going to be a party. In general, we take pleasure in reading things that we agree with, and as search engines aim to please, they take this into consideration. This turns the wide-open Internet, however, into an echo chamber where we never really hear dissenting opinions.
+
+While I am known for seeking out dissenting opinions about teaching and pedagogy (I'm an Engineer, but this is why I network with so many folks from the Humanities), I obviously find that I gravitate towards the people who think my way, and generally look to them for feedback and support since they will often criticize me while still generally agreeing with me. It's a very self-serving form of peer review that sets up unrealistic expectations for the reception of my work at large. So I decided to subscribe to everything that contains the term "MOOC" on Twitter.
+
+It's been interesting.
+
+Subscribing to a keyword like this has filled my stream with everything that may have had anything to do with Massively Open Online Courses, positive or negative. I've seen Tweets from people who are awaiting the incoming MOOCapolypse with open arms, the cautious supporters, the ambitious experimenters, the dismissers, the misinformed, the uncreative, and the fanboys on both sides who simply retweet anything and everything that is posted by whoever they consider to be their hero in the argument. Profound or petty, I get it all in a single stream, but the one thing I get more than anything else are the links.
+
+As you all know, blogs, news sites, Youtube, etc, all have these wonderful little "Sharing buttons" that allow you to post a link to the content you just read to social media sites. If you didn't know, just look below, since the IsharaComix GradBlog has ALL the sharing buttons. This makes sense because the overlap in followers of the people who read a blog is generally very small. Even if everyone who reads a blog decides to Tweet the blog post, other than the Tweeters themselves, I can't imagine too many people getting the same post to appear in their feed more than twice.
+
+However, when I follow a single keyword, and that keyword appears in the title of an article, I get the link from every single person who decides to share it. Every single person. Sometimes they add a little quip of their own to prefix the link, but most just fire and forget. And it gets irritating after a few weeks, especially when it's an article that I don't agree with. And the worst part is I have to suck it up because I'm a good academic who doesn't dismiss things that other people say just because I don't agree with them.
+
+But in all seriousness, I'm glad I've started following topics on Twitter as well as following users. The opposing viewpoints, when well-stated, are immensely valuable, and even the redundancy can be a good thing when Tweets are often here today and gone five minutes later. More redundancy means less chances that I'll miss something good. Furthermore, when a conference on the subject pops up that I didn't know was going on, I get to join in uninvited and unannounced! Knowing how to get the information I need to be successful is a crucial part of research, so I can't turn off any potential channels.
