@@ -32,7 +32,7 @@ authentically.
 
 For anyone who's read the past three entries on my blog, I might sound like a
 broken record saying this, but this is exactly why I started streaming game
-development on my blog. I set up a routine where every night, I stream a couple
+development on my website. I set up a routine where every night, I stream a couple
 of hours of uncut game development. Everything I do, from the successes to the
 mistakes to the awkward silences are being recorded for all to see! Programs
 aren't just made... they're written and rewritten and thrown out when you come
