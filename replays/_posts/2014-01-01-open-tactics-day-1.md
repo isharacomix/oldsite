@@ -4,7 +4,7 @@ title: Open Tactics Day 1
 tags: replay
 replay: open-tactics-day-1
 ---
-The first day of livestreaming the [Open Tactics](http://github.com/isharacomix/open-tactics)
+The first day of livestreaming the [Open Tactics](http://github.com/isharacomix/rules-of-war)
 project. In this livestream, I introduced the project and got used to my new
 streaming environment.
 

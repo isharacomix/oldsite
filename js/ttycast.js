@@ -22,7 +22,7 @@
 "",
 "",
 "    Current livestreaming schedule: 10 PM to midnight EST",
-"    Current livestreaming project : http://github.com/isharacomix/open-tactics",
+"    Current livestreaming project : http://github.com/isharacomix/rules-of-war",
 "",
 "",
 "",
