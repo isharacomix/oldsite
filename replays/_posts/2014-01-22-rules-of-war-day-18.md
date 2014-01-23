@@ -14,94 +14,55 @@ game.
     ;; If you want to create a file, visit that file with C-x C-f,
     ;; then enter the text in that file's own buffer.
 
-    Day 17 begins NOW. We've made tremendous progress in recent days. I'm still
-    struggling over how to reconcile this notion of players vs teams and what
-    makes them different. I feel like I've got it close to right, and I think it's
-    probably better to do it the ugly but right way rather than the pretty wrong
-    way.
+    Here we are again! Day 18! Boy, it's cold here in North Carolina.
 
-    So let's do it. We're going to change the notion of teams and players where
-    teams are part of the map (default names, etc), but players control the teams
-    and add expected behavior on top of them. I'll leave it as a task for rules to
-    do until I find a better way, but the structure must be right.
+    Sorry I missed yesterday! I was presenting my streaming system at the Linux
+    Users Group meeting! It was a lot of fun showing off my infrastructure!
 
-    Much better! So now, the "players" structure overrides the teams, but only
-    teams that exist! When starting a new game, this is what will set up how the
-    game advances, and also where control will come from (user, AI, internet).
+    Gimme a minute to get some stuff organized and we'll get started.
 
-    This is encouraging. We can extend this in the future. I've also been thinking
-    of a way of improving graphics. What I can do is make it so that the animation
-    of the units is controlled in part by the timer, and the animation is only
-    updated during the grid's animation tick. This will likely improve rendering.
-    I wonder how that would look.
+    OK. Now, a warning... i might not be streaming this weekend since this weekend
+    is the Global Game Jam, and I'll likely be doing something else entirely that
+    weekend. So we'll see what we can do up until then. Also, I'm really up to my
+    elbows in work, so I'll probably keep my work the next few days light and
+    easy on me.
 
-    Hmm... I suppose that's not really as big a deal as the widget placement issue.
-    There's no reason for widgets to be running off the edge of the screen. This
-    is especially a problem for things like menus. Right now, it's 100% possible
-    for menus and alerts to render out of view because I don't have a good way of
-    telling the difference between absolutes and stuff. Perhaps I could, do some
-    stuff by default.
+    So with that, let's start. I was originally going to work on the rest of the
+    rules editor, but I think instead I'm going to do some engine stuff. I'm a bit
+    miffed that the rules.py module is now nearly 1000 lines long. I know the
+    editor makes up a substantial bit of that, but I'm not pleased by how huge it
+    is. I'll likely need to to work in some refactoring one night. Also, my unit
+    tests are failing, and I need to get to the bottom of that!
 
-    The engine tells the controller some suggestions about where to render things.
+    So the things I'm going to do tonight! I'm going to set up:
 
-    Right now, the only things that get rendered are global alerts, menus, and
-    damage. Hmm... global alerts. Is the camera a good point of reference?
+     * When you capture a tile with the 'hq' property, the original owner of that
+       tile loses the game. All of their units are destroyed and all of their
+       properties are given to the captor. If the current owner of the property is
+       not the original property, then nothing happens... it's just like any other
+       city.
+     * You can recover a unit by leaving it on a property at the end of a turn.
+       The city's variables should be responsible for determining how much to
+       recover each unit and how much that should cost. I think what I'd like to
+       do is "when you recover a unit, you forfeit that city's income". That way
+       repairs don't have to be cancelled in weird orders. The problem with making
+       it a cost is that you don't get to choose which ones get processed, and I
+       don't want there to be any confusion about what the order is.
+     * You can also recover units by joining two units together. The HP is set
+       equal to min(hp1+hp2,100)
+     * You can load units into other units.
 
-    OK. That's looking good. The 24-tile limit may prove to be a problem when
-    trying to edit very large sets of rules. One thing I've been holding back on
-    are the actual rules. There are a lot of things that need to be edited when
-    editing rules:
+    OK! That was pretty tricky, but we got all of the tasks outlined above
+    complete! I also brought our tests back up to passing! I think I cut some
+    corners there at the end when it came to loading and unloading units. For
+    example, I don't check if the unit is still in the carry list when I'm in the
+    unload drop state, but I think it's better than an exception is thrown than
+    something 'sane' happening (since it points to a bigger bug). I should trust
+    preconditions a bit more than I do, but hey - this has been a great learning
+    experience. I've also learned that trying to repeat experiments by hand is
+    very tiring. The interface is not the nicest, meaning that one day, I'm going
+    to want to incorporate some kind of mouse controls in the SDL mode.
 
-      Unit
-      Name
-      Description (how will THAT work)
-      Damage to ALL other units
-      Movement across ALL terrain
-      Properties
-
-    And for terrain
-
-      Name
-      Description
-      Defensive Cover
-      What units it can produce at what price
-      Properties
-
-    The problem is that this is going to create a whole bunch of boring states.
-    I suppose I could create one state called "rule edit"... and then it would
-    utilize a bunch of switch cases in ONE state. Besides, I don't have to worry
-    *as much* about illegal entries since if you make a bad JSON file, well, you
-    could have done that anyway.
-
-    I think the goal is to definitely try to make a good user experience for this
-    particular part of the game, but don't let it eat up too much time. If it
-    involves a ridiculously convoluted state machine, it might be better off if we
-    rethink our editor. We can even always make our editor a separate program
-    entirely or something. The menu-based interaction is guaranteed to be slow.
-
-    So we need to think about flow...
-
-    Edit Rules...
-       Create Unit
-       Delete Unit
-       Create Terrain
-       Delete Terrain
-       Edit Unit
-       Edit Terrain
-
-    Or...
-       Edit Unit
-         Infantry    >  Damage
-         Artillery      Movement
-         Create New     Properties
-                        Delete Unit
-
-    The "repeat last step" command is ridiculously helpful.
-
-
-    All right. I think I've gotten started well enough. I need to get to bed
-    since school and work start back up tomorrow. Let's commit and revisit this
-    tomorrow night. I'm actually giving a presentation on my livestreaming setup
-    and this game tomorrow, so that should be great fun!
-
+    But that's for another day. We had a very successful two hours. Let's commit
+    and go to bed.
 
