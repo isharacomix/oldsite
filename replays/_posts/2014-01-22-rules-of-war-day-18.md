@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Rules of War Day 17
+title: Rules of War Day 18
 tags: replay
-replay: rules-of-war-17
+replay: rules-of-war-18
 ---
-In this livestream, we break our streak and end up having a very unproductive
-evening. We make some nice GUI improvements, fix the player/team dynamic, and
-start working on the rules editor. The rules editor requires a lot of states
-be added to the state machine, so it's not the most attractive work to do.
+In this livestream, we do some miscellaneous rule additions to the game. Units
+can now be recovered both by sitting on the correct friendly properties as well
+as by joining with other units. Units can also be loaded and unloaded onto units
+with carrying capabilities, and capturing the enemy HQ kicks them out of the
+game.
 
     ;; This buffer is for notes you don't want to save, and for Lisp evaluation.
     ;; If you want to create a file, visit that file with C-x C-f,
