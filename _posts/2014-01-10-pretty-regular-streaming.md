@@ -63,4 +63,5 @@ Leave a comment on a replay or two. :)
 [pump.io]: http://pump.io
 [tent]: http://tent.io
 [past]: http://isharacomix.org/2013/09/12/social-network-competition
+[identi.ca]: http://identi.ca
 
