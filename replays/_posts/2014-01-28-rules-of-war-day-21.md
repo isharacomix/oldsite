@@ -7,8 +7,10 @@ replay: rules-of-war-21
 In this livestream, we start to wind down and bring the game to a close. It is
 now possible to start a hotseat game and probably play it to completion. All
 that's left now is to actually do some playtesting and release the game as it
-stands. We'll put RoW on the backburner for a while and spend February working
-on a different game.
+stands.
+
+We start wondering if RoW is really the game for us, but after finally getting
+it done, we can't wait to start next month and begin the Great Refactoring!
 
     ;; This buffer is for notes you don't want to save, and for Lisp evaluation.
     ;; If you want to create a file, visit that file with C-x C-f,
