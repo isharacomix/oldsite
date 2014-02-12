@@ -53,6 +53,7 @@ Software Releases
 
 Public Scholarship
 ------------------
+ * **Barry Peddycord III**, "[Why It Makes Sense for Students to Grade One Another’s Papers](http://chronicle.com/blogs/future/2014/02/12/why-it-makes-sense-for-students-to-grade-one-anothers-papers/)". In *[The Chronicle of Higher Education](http://chronicle.com/blogs/future)*. February 12, 2014.
  * **Barry Peddycord III**, Elizabeth A. Pitts. "[From Open Programming to Open Learning: The Cathedral, the Bazaar, and the Open Classroom](http://www.hastac.org/blogs/barrypeddycordiiiandelizabethapitts/2013/08/01/chapter-two-open-programming-open-learning-cath)". *Field Notes for 21st Century Literacies: A Guide to New Theories, Methods, and Practices for Open Peer Teaching and Learning*, Chapter 2, Spring 2013.
  * **Barry Peddycord III**. "[LISA 2012: What the USENIX Large Installation System Administration conference has going for it](http://opensource.com/education/13/1/LISA-2012-report)". In *[Opensource.com](http://opensource.com)*. January 10, 2013.
 
