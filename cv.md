@@ -119,7 +119,7 @@ Slides are provided if available - please note that unless specifically marked, 
 
 Posters
 -------
- * **Barry Peddycord III**, Andrew Hicks, Irena Rindos, Christopher Simmons, Tiffany Barnes. *[A Comparison of Two Approaches for Hint Generation in Programming Tutors]({site.baseurl}files/bots_sigcse2014_poster.pdf)*.
+ * **Barry Peddycord III**, Andrew Hicks, Irena Rindos, Christopher Simmons, Tiffany Barnes. *[A Comparison of Two Approaches for Hint Generation in Programming Tutors]({{ site.baseurl }}files/bots_sigcse2014_poster.pdf)*.
  * Veronica Catete, Leslie Keller, **Barry Peddycord III**. *[AP Computer Science Principles Resource Development]({{site.baseurl}}files/stars_poster_bjc_moodle.pdf)*.
  * **Barry Peddycord III**, Tiffany Barnes. *[AP Computer Science Principles Training]({{site.baseurl}}files/stars_poster_bjc_training.pdf)*.
  * **Barry Peddycord III**. *[Identification of Network Service Relationships in Distributed Systems]({{site.baseurl}}files/nsdminer_symposium_poster.pdf)*.
