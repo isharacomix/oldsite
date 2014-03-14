@@ -61,6 +61,7 @@ Public Scholarship
 
 Teaching Experience
 -------------------
+ * **CSC 230: C and Software Tools, Instructor, Spring 2014 (1 section, 53 students) - current**
  * CSC 230: C and Software Tools, Co-Teacher, Fall 2013 (1 section, 86 students)
  * CSC 326: Software Engineering, Lab Instructor, Spring 2013 (2 sections, 25 and 25 students)
  * CSC 326: Software Engineering, Lab Instructor, Fall 2012 (2 sections, 12 and 17 students)
@@ -94,6 +95,7 @@ Service and Leadership
 
 Presentations and Talks
 -----------------------
+ * *[A Comparison of Two Approaches for Hint Generation in Programming Tutors]({{ site.baseurl }}files/bots_sigcse2014_poster.pdf)*, poster at SIGCSE 2014, March 7, 2014
  * *[AP Computer Science Principles Resource Development]({{site.baseurl}}files/stars_poster_bjc_moodle.pdf)*, poster at STARS Celebration 2013, August 16, 2013
  * *[8-bit Game Programming with the NES]({{site.baseurl}}files/8bitmooc_stars2013.pdf)*, workshop at STARS Celebration 2013, August 16, 2013
  * *Hacking the NES*, [BarCampRDU](http://barcamp.org), May 18, 2013
