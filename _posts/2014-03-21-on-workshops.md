@@ -25,8 +25,8 @@ There is some special feeling when you make something cool in a weird environmen
 such as Minecraft or a Raspberry Pi. As a programmer, making something in the
 "real world" like an Arduino or PIC Microcontroller is an exotic experience. I'm
 pretty sure the novelty aspect is a huge part of what makes this fun, but there's
-something more fundamental underneath: *the feeling of going to another **place**
-to make things*. Programming at home is **work**. Programming in Minecraft, on
+something more fundamental underneath: the feeling of going to another *place*
+to make things. Programming at home is **work**. Programming in Minecraft, on
 a Raspberry Pi, in a makerspace... that's **fun**.
 
 Part of the point of a makerspace, workshop, or secret laboratory is to provide
