@@ -170,3 +170,9 @@ Articles Written About Me
  * [NC State Graduate School Spotlight](http://www.ncsu.edu/grad/stories/peddycord.html), August 1, 2012
  * [OpenSource.com Community Spotlight](http://opensource.com/should-be/12/6/community-spotlight-barry-peddycord-iii-phd-student-computer-science), June 26, 2012
 
+
+History
+-------
+[See how this document has changed over time!](https://github.com/isharacomix/isharacomix.github.io/commits/master/cv.md)
+
+
