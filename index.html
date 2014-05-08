@@ -35,7 +35,7 @@ title: Home
             <a href="http://www.linkedin.com/in/isharacomix">
               <i class="fa fa-linkedin-square fa-3x" title="LinkedIn" alt="linked in"></i>
             </a>
-            <a href="https://plus.google.com/+BarryPeddycordIII/posts">
+            <a href="https://plus.google.com/+BarryPeddycordIII">
               <i class="fa fa-google-plus fa-3x" title="Google+" alt="google plus"></i>
             </a>
             <a href="mailto:ishara@isharacomix.org">
@@ -56,9 +56,22 @@ title: Home
 <div class="row">
 
   <div class="col-md-6 col-sm-12">
-  <div class="well">
-    Project 1: The grad blog
-  </div>
+      <div class="panel-heading">
+        <h3 class="panel-title">The GradBlog</h3> <a href="">
+      </div>
+      <div class="panel-body">
+        {% for post in site.tags['blog'] limit: 1 %}
+        <div>
+           <strong>{{ post.title }}</strong><br />
+           <span class="date"><span class="glyphicon glyphicon-calendar"></span>
+             <time datetime="{{post.date|date:"%F"}}"><em>{{post.date|date:"%b %d, %Y"}}</em></time>
+           </span><br />
+           {{ post.excerpt }}...
+           <a href="{{post.url}}"><small>Continue Reading...</small></a><br />
+        </div>
+        <hr />
+        {% endfor %}
+      </div>
   </div>
 
   <div class="col-md-6 col-sm-12">
