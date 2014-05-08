@@ -58,19 +58,18 @@ title: Home
   <div class="col-md-6 col-sm-12">
     <div class="panel panel-info">
       <div class="panel-heading">
-        <h3 class="panel-title">The GradBlog</h3> <a href="">test</a>
+        <h3 class="panel-title">The GradBlog</h3> 
       </div>
       <div class="panel-body">
         {% for post in site.tags['blog'] limit: 1 %}
         <div>
-           <strong>{{ post.title }}</strong><br />
+           <strong><a href="{{post.url}}">{{ post.title }}</a></strong><br />
            <span class="date"><span class="glyphicon glyphicon-calendar"></span>
              <time datetime="{{post.date|date:"%F"}}"><em>{{post.date|date:"%b %d, %Y"}}</em></time>
            </span><br />
-           {{ post.excerpt }}...
-           <a href="{{post.url}}"><small>Continue Reading...</small></a><br />
+           {{ post.excerpt }}
+           <small><a href="{{ site.baseurl }}blog">GradBlog Archives</a></small><br />
         </div>
-        <hr />
         {% endfor %}
       </div>
     </div>
