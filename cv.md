@@ -162,6 +162,7 @@ Awards, Recognitions, Certifications
 
 MOOCs
 -----
+ * [Games without Chance: Combinatorial Game Theory]({{site.baseurl}}files/mooc_gametheory2014.pdf), Thomas Morley, March 14
  * [Internet History, Technology, and Society]({{site.baseurl}}files/mooc_ihts2013.pdf), Charles Severence, August 2013
  * [Gamification]({{site.baseurl}}files/mooc_gamification2013.pdf), Kevin Werbach, May 2013
 
