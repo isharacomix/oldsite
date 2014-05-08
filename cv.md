@@ -70,18 +70,19 @@ For more information, visit my [teaching portfolio]({{ site.baseurl }}teaching).
 Service and Leadership
 ----------------------
 ### Current
+ * [NC State University Graduate Student Association](http://ugsa.ncsu.edu), Vice President of Communications, since Fall 2013
  * [NC State Student Centers Board of Directors](http://www.ncsu.edu/student_center/bod/), UGSA seat, since Fall 2013
- * [NC State University Graduate Student Association](http://ugsa.ncsu.edu), Vice President of Communications, Fall 2013 - Spring 2014
+ * [NC State University Computer Science Graduate Student Association](http://ncsu.orgsync.com/org/cscgsa), Treasurer, since Fall 2014
  * [Triangle Linux Users Group](http://trilug.org), Steering Committee, since May 2013
  * [IEEE Eastern NC Section Executive Committee](http://sites.ieee.org/encs/), Secretary, since January 2013
  * [IEEE Eastern NC Section Computer Society Chapter](http://sites.ieee.org/encs/computer), Chair, since January 2013
- * [NC State University Computer Science Graduate Student Association](http://ncsu.orgsync.com/org/cscgsa), President, since Fall 2012
- * [NC State University Standing Committee on Copyright](http://www.provost.ncsu.edu/governance/standing-committees/copyright/), since September 2012
  * Preparing Future Leaders Ambassador, since Fall 2012
  * [STARS Student Leadership Corps](http://stars.csc.ncsu.edu/), since Fall 2012
  * [IEEE Eastern NC Section Executive Committee](http://sites.ieee.org/encs/), Webmaster, since January 2012
 
 ### Past
+ * [NC State University Computer Science Graduate Student Association](http://ncsu.orgsync.com/org/cscgsa), President, Fall 2012 - Spring 2014
+ * [NC State University Standing Committee on Copyright](http://www.provost.ncsu.edu/governance/standing-committees/copyright/), Fall 2012 - Spring 2014
  * [NC State Linux Users Group](http://lug.ncsu.edu), Treasurer, Spring 2014
  * [NC State Linux Users Group](http://lug.ncsu.edu), President, Spring and Fall 2013
  * [NC State University Graduate Student Association](http://ugsa.ncsu.edu), CSC Representative and Academic Policy Committee Chair, Fall 2012 - Spring 2013
