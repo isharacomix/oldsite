@@ -21,7 +21,10 @@
 
 
     <body>
-        <div class="navbar navbar-static-top" role="navigation"></div>
+        <div class="navbar navbar-fixed-top" role="navigation">
+            <ul class="navbar-right"><a href="{{ site.baseurl }}"><i class="fa fa-home fa-3x"></i></a></ul>
+        </div>
+        <div class="navbar navbar-static-top"></div>
     
         <div class="container">
             <div class="row">
@@ -34,16 +37,6 @@
                 {% include footer.html %}
             </footer>
         </div>
-
-        {% if page.terminal %}
-            <script src="{{ site.baseurl }}js/socket.io.js"></script>
-            <script src="{{ site.baseurl }}js/screen-buffer.js"></script>
-            <script src="{{ site.baseurl }}js/display-buffer.js"></script>
-            <script src="{{ site.baseurl }}js/ttycast.js"></script>
-        {% else if page.replay %}
-            <script type="text/javascript" src="{{ site.baseurl }}js/VT100.js" ></script>
-            <script type="text/javascript" src="{{ site.baseurl }}js/scriptreplay.js" ></script>
-        {% endif %}
 
         <script src="{{site.baseurl}}js/jquery-1.9.1.min.js"></script>
         <script src="{{site.baseurl}}js/bootstrap.js"></script>
