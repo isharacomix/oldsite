@@ -26,13 +26,14 @@
                <a href="{{ site.baseurl }}"><i class="fa fa-home fa-3x" title="Home" alt="home"></i></a>
             </ul>
         </div>
-        <div class="navbar navbar-static-top">
-            <ul class="navbar-right visible-xs">
-               <a href="{{ site.baseurl }}"><i class="fa fa-home fa-3x" title="Home" alt="home"></i></a>
-            </ul>
-        </div>
+        <div class="navbar navbar-static-top hidden-xs"></div>
     
         <div class="container">
+            <div class="row visible-xs">
+                <a href="{{ site.baseurl }} class="pull-right"><i class="fa fa-home fa-3x" title="Home" alt="home"></i></a>
+            </div>
+        
+        
             <div class="row">
                 {{ content }}
             </div>
