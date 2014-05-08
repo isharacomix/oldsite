@@ -72,7 +72,6 @@ For more information, visit my [teaching portfolio]({{ site.baseurl }}teaching).
 Service and Leadership
 ----------------------
 ### Current
- * [NC State Linux Users Group](http://lug.ncsu.edu), Treasurer, since Spring 2014
  * [NC State Student Centers Board of Directors](http://www.ncsu.edu/student_center/bod/), UGSA seat, since Fall 2013
  * [NC State University Graduate Student Association](http://ugsa.ncsu.edu), Vice President of Communications, Fall 2013 - Spring 2014
  * [Triangle Linux Users Group](http://trilug.org), Steering Committee, since May 2013
@@ -85,6 +84,7 @@ Service and Leadership
  * [IEEE Eastern NC Section Executive Committee](http://sites.ieee.org/encs/), Webmaster, since January 2012
 
 ### Past
+ * [NC State Linux Users Group](http://lug.ncsu.edu), Treasurer, Spring 2014
  * [NC State Linux Users Group](http://lug.ncsu.edu), President, Spring and Fall 2013
  * [NC State University Graduate Student Association](http://ugsa.ncsu.edu), CSC Representative and Academic Policy Committee Chair, Fall 2012 - Spring 2013
  * [NC State Linux Users Group](http://lug.ncsu.edu/), Secretary, Fall 2012

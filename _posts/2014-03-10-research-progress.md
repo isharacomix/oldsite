@@ -24,7 +24,7 @@ kind of research we do in Computer Science Education that doesn't fit timetables
 very well.
 
 With that complaining out of the way, let's talk about the good things happening
-in life!
+in life! 
 
 I've been collecting a lot of very interesting data lately from a course on
 "The Beauty and Joy of Computing", taught to a cohort of primarily non-major
