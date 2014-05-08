@@ -4,11 +4,22 @@ layout: base
 
 <div class="col-md-8 col-md-push-2 col-sm-12">
     <article>
-    <h2>{{ page.title }} <small>posted <time datetime="{{page.date|date:"%F"}}">{{page.date|date:"%b %d, %Y"}}</time></small></h2>
+    <h1>{{ page.title }} <small>posted <time datetime="{{page.date|date:"%F"}}">{{page.date|date:"%b %d, %Y"}}</time></small></h1>
     
     <div id="post">
         {{ content }}
     </div>
+    
+    <div class="media">
+      <a class="pull-left hidden-xs" href="#">
+        <img class="media-object" src="{{ site.baseurl }}img/barry_avatar.png" alt="">
+      </a>
+      <div class="media-body">
+        <h4 class="media-heading">Barry Peddycord III</h4>
+        Barry is the author of this post!
+      </div>
+    </div>
+    
     </article>
 
     <div id="disqus_thread"></div>
