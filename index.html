@@ -61,9 +61,11 @@ title: Home
         <h3 class="panel-title">The GradBlog</h3> 
       </div>
       <div class="panel-body">
+       <div class="media">
         <a class="pull-left" href="{{ site.baseurl }}blog">
-          <img src="{{ site.baseurl }}img/project_gradblog.png" alt="">
+          <img class="media-object" src="{{ site.baseurl }}img/project_gradblog.png" alt="">
         </a>
+        <div class="media-body">
       
         {% for post in site.tags['blog'] limit: 1 %}
         <div>
@@ -75,6 +77,8 @@ title: Home
            <small><a href="{{ site.baseurl }}blog">GradBlog Archives</a></small><br />
         </div>
         {% endfor %}
+      </div>
+      </div>
       </div>
     </div>
   </div>
