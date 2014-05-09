@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-My name is Barry Peddycord III. Online, I go by the handle *IsharaComix*.
+My name is Barry Peddycord III. Online, I go by the handle *IsharaComix*. This website serves as my landing page for the internet, taking the many places I write and work and bringing them into one, easy-to-find location.
 
 
 Education
@@ -24,10 +24,12 @@ My lab is highly involved in the development and testing of the *[AP Computer Sc
 However, in the most broad sense, I am interested in how human beings learn and apply rules to control the behavior of systems. Systems can include anything from computers to games to economics, and I find the way that "languages" - structured protocols for interacting with these systems - are learned and mastered in an effort to control the systems. I am interested in how the properties and attributes of the system affect the design and capabilities of the language, and how the design of the language affects the learnability of the language. A term that I've heard and like (yet hesitate to use for myself at this point) is *Critical Code Studies*, which I see as being the study of code and languages using from a critical theory perspective. I find this introspective look at the usage, the design, and even the very *definitions* of "code" and the societies of people responsible to be very interesting and very important to study.
 
 
-Personal
---------
+What is "Ishara Comix"?
+-----------------------
+*Ishara Comix* was a comic book series I developed in 2002 (I was in 7th grade at the time) featuring Ishara the dimensional drifter and his entourage of silly friends. It went through several iterations, from a gag-a-day format to an epic adventure to a slice-of-life webcomic.
 
 
 History
 -------
 [See how this document has changed over time!](https://github.com/isharacomix/isharacomix.github.io/commits/master/about.md)
+
