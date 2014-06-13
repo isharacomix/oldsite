@@ -8,7 +8,7 @@ Yesterday, my [Arduino][] arrived in the mail! After many years of trying to mak
 games and watching them fail cataclysmically, I've decided that the only way to
 go on is to embrace constrained computing even more than I've already done via
 assemblers and emulators. It's time to drop down to a lower level and start
-**[playing with wire]**.
+**[playing with wire][]**.
 
 **Playing with Wire** is the name of my new personal project for personal growth
 and learning. In this project, rather than thinking about software development and
