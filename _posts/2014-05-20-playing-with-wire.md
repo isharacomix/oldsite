@@ -4,7 +4,7 @@ title: Playing with Wire
 tags: blog
 ---
 
-Yeserday, my [Arduino][] arrived in the mail! After many years of trying to make
+Yesterday, my [Arduino][] arrived in the mail! After many years of trying to make
 games and watching them fail cataclysmically, I've decided that the only way to
 go on is to embrace constrained computing even more than I've already done via
 assemblers and emulators. It's time to drop down to a lower level and start
