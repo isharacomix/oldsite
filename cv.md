@@ -33,6 +33,7 @@ Employment
 
 Refereed Publications
 ---------------------
+ * Andrew Hicks, **Barry Peddycord III**, Tiffany Barnes. "Building  Games To Learn From Their Players: Generating Hints in a Serious Game". To appear in *Proceedings of ITS 2014*, July 2014.
  * Edward Gehringer, **Barry Peddycord III**. "Grading by Experience Points: A Case Study from Computer Ethics." In *[Proceedings of the 43rd IEEE Frontiers in Eduction Conference (FIE '13)](http://fie2013.org)*, October 2013.
  * Edward Gehringer, **Barry Peddycord III**. "[Teaching Strategies When Students Have Access to Solution Manuals](http://www.asee.org/public/conferences/20/papers/6828/view)." In *[Proceedings of the 2013 ASEE Annual Conference](http://www.asee.org/conferences-and-events/conferences/annual-conference/2013)*, June 2013.
  * Edward Gehringer, **Barry Peddycord III**. "[The Inverted-Lecture Model: A Case Study in Computer Architecture](http://db.grinnell.edu/sigcse/sigcse2013/Program/viewAcceptedProposal.pdf?sessionType=paper&amp;sessionNumber=118)." In *[Proceedings of the 44th ACM Technical Symposium on Computer Science Education (SIGCSE '13)](http://www.sigcse.org/sigcse2013/)*, Pages 489-494, March 2013.
