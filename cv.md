@@ -77,11 +77,11 @@ Service and Leadership
  * [Triangle Linux Users Group](http://trilug.org), Steering Committee, since May 2013
  * [IEEE Eastern NC Section Executive Committee](http://sites.ieee.org/encs/), Secretary, since January 2013
  * [IEEE Eastern NC Section Computer Society Chapter](http://sites.ieee.org/encs/computer), Chair, since January 2013
- * Preparing Future Leaders Ambassador, since Fall 2012
  * [STARS Student Leadership Corps](http://stars.csc.ncsu.edu/), since Fall 2012
  * [IEEE Eastern NC Section Executive Committee](http://sites.ieee.org/encs/), Webmaster, since January 2012
 
 ### Past
+ * Preparing Future Leaders Ambassador, Fall 2012 - Spring 2014
  * [NC State University Computer Science Graduate Student Association](http://ncsu.orgsync.com/org/cscgsa), President, Fall 2012 - Spring 2014
  * [NC State University Standing Committee on Copyright](http://www.provost.ncsu.edu/governance/standing-committees/copyright/), Fall 2012 - Spring 2014
  * [NC State Linux Users Group](http://lug.ncsu.edu), Treasurer, Spring 2014
@@ -149,6 +149,7 @@ Memberships and Affiliations
 
 Awards, Recognitions, Certifications
 ------------------------------------
+ * *Preparing the Professoriate*, June 2014
  * *Certificate of Accomplishment in Teaching*, December 2013
  * Nominated for University Graduate Student Association *Outstanding TA Award*, 2013
  * NC State [Preparing Future Leaders "Season Pass"](http://www.ncsu.edu/grad/preparing-future-leaders/season-pass/season-passholders.html), Fall 2011
