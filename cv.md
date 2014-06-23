@@ -95,11 +95,11 @@ Service and Leadership
 
 Presentations and Talks
 -----------------------
+ * *Open Source Tools in the Classroom*, presentation at Southeast Linux Fest 2014, June 22, 2014
  * *[A Comparison of Two Approaches for Hint Generation in Programming Tutors]({{ site.baseurl }}files/bots_sigcse2014_poster.pdf)*, poster at SIGCSE 2014, March 7, 2014
  * *[AP Computer Science Principles Resource Development]({{site.baseurl}}files/stars_poster_bjc_moodle.pdf)*, poster at STARS Celebration 2013, August 16, 2013
  * *[8-bit Game Programming with the NES]({{site.baseurl}}files/8bitmooc_stars2013.pdf)*, workshop at STARS Celebration 2013, August 16, 2013
  * *Hacking the NES*, [BarCampRDU](http://barcamp.org), May 18, 2013
- * *I am not a Computer Scientist: Talking about Interdisciplinary Research*, [Women in Computer Science](http://ncsu.orgsync.com/org/wics/) Symposium, April 26, 2013
  * *[AP Computer Science Principles Resource Development]({{site.baseurl}}files/stars_poster_bjc_moodle.pdf)*, [STARS](http://stars.csc.ncsu.edu) poster session, April 23, 2013
  * *The Inverted-Lecture Model: A Case Study in Computer Architecture,* paper presentation at [SIGCSE 2013](http://www.sigcse.org/sigcse2013/), Friday, March 8, 2013.
  * *[If MOOCs are the Cathedral, What is the Bazaar?]({{site.baseurl}}files/moocbazaar_lilly2013.pdf)*, presentation at [Lilly South](http://lilly.uncg.edu), February 15, 2013
@@ -107,10 +107,7 @@ Presentations and Talks
  * *[On the Accurate Identification of Network Service Dependencies in Distributed    Systems]({{site.baseurl}}files/nsdminer_lisa2012.pdf)*, [USENIX Large Installation System Administration (LISA) '12](https://www.usenix.org/accurate-identification-network-service-dependencies-distributed-systems), December 13, 2012
  * *[AP Computer Science Principles Training]({{site.baseurl}}files/stars_poster_bjc_training.pdf)*, [STARS](http://stars.csc.ncsu.edu) poster session, November 30, 2012
  * *Badges and Microcredentialing*, lightning talk for the [NC State Linux Users Group](http://lug.ncsu.edu), October 30, 2012
- * *Graduate Student Panel*, Visit NC State Day, October 29, 2012
- * *Challenge Accepted: [Ren’Py](http://renpy.org)*, lightning talk for [PyCarolinas](http://pycarolinas.org), October 21, 2012
  * *[Python as a First Language]({{site.baseurl}}files/firstlang_pycarolinas2012.pdf)*, [PyCarolinas](http://pycarolinas.org), October 21, 2012
- * *Graduate Student Panel*, NC State New Graduate Student Orientation, August 15, 2012
  * *[Identification of Network Service Relationships in Distributed Systems]({{site.baseurl}}files/nsdminer_symposium_poster.pdf)*, poster presentation at the [NC State University 7th Annual Graduate Research Symposium](http://www.ncsu.edu/grad/research/symposium.html), March 20, 2012
  * *Efficient, Compromise Resilient and Append-only Cryptographic Schemes for Secure Audit Logging*, presented at [Financial Cryptography 2012](http://fc12.ifca.ai) on behalf of the authors, February 28, 2012
  * *[Linux and Software-Defined (Ham) Radio](https://secure.flickr.com/photos/jeremydavis0_0/6912874181/in/set-72157629409387271)*, presentation at the [NC State FOSS Fair](https://opensource.ncsu.edu/FossFair2012), February 18, 2012
