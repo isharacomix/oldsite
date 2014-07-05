@@ -4,7 +4,7 @@ title: A Paper Every Day
 tags: blog
 ---
 
-About 3 weeks ago, I started a thing on Twitter I call [#APaperEveryDay]() to encourage myself to read more papers. It's kind of ironic that I'm writing about it after a conference-induced three day hiatus, but once again, the lack of posts to my blog is getting to me.
+About 3 weeks ago, I started a thing on Twitter I call [#APaperEveryDay][] to encourage myself to read more papers. It's kind of ironic that I'm writing about it after a conference-induced three day hiatus, but once again, the lack of posts to my blog is getting to me.
 
 <blockquote class="twitter-tweet" lang="en"><p>Today I read a cool paper by Easterday and Jo about replay penalties in educational games (from ITS 2014) <a href="https://twitter.com/hashtag/APaperEveryDay?src=hash">#APaperEveryDay</a></p>&mdash; Barry Peddycord III (@isharacomix) <a href="https://twitter.com/isharacomix/statuses/479608095434608640">June 19, 2014</a></blockquote>
 
