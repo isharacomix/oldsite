@@ -33,7 +33,8 @@ Employment
 
 Refereed Publications
 ---------------------
- * Andrew Hicks, **Barry Peddycord III**, Tiffany Barnes. "Building  Games To Learn From Their Players: Generating Hints in a Serious Game". To appear in *Proceedings of ITS 2014*, July 2014.
+ * **Barry Peddycord III**, Andrew Hicks, Tiffany Barnes. "[Generating Hints for Programming Problems Using Intermediate Output](http://educationaldatamining.org/EDM2014/uploads/procs2014/long%20papers/92_EDM-2014-Full.pdf)". In *Proceedings of The 7th International Conference on Educational Data Mining*, July 2014.
+ * Andrew Hicks, **Barry Peddycord III**, Tiffany Barnes. "Building  Games To Learn From Their Players: Generating Hints in a Serious Game". To appear in *Proceedings of ITS 2014*, June 2014.
  * Edward Gehringer, **Barry Peddycord III**. "Grading by Experience Points: A Case Study from Computer Ethics." In *[Proceedings of the 43rd IEEE Frontiers in Eduction Conference (FIE '13)](http://fie2013.org)*, October 2013.
  * Edward Gehringer, **Barry Peddycord III**. "[Teaching Strategies When Students Have Access to Solution Manuals](http://www.asee.org/public/conferences/20/papers/6828/view)." In *[Proceedings of the 2013 ASEE Annual Conference](http://www.asee.org/conferences-and-events/conferences/annual-conference/2013)*, June 2013.
  * Edward Gehringer, **Barry Peddycord III**. "[The Inverted-Lecture Model: A Case Study in Computer Architecture](http://db.grinnell.edu/sigcse/sigcse2013/Program/viewAcceptedProposal.pdf?sessionType=paper&amp;sessionNumber=118)." In *[Proceedings of the 44th ACM Technical Symposium on Computer Science Education (SIGCSE '13)](http://www.sigcse.org/sigcse2013/)*, Pages 489-494, March 2013.
@@ -95,6 +96,7 @@ Service and Leadership
 
 Presentations and Talks
 -----------------------
+ * *[Generating Hints for Programming Problems Using Intermediate Output]({{site.baseurl}}files/hints_edm2014.pdf)*. presentation at EDM 2014, July 7, 2014.
  * *Open Source Tools in the Classroom*, presentation at Southeast Linux Fest 2014, June 22, 2014
  * *[A Comparison of Two Approaches for Hint Generation in Programming Tutors]({{ site.baseurl }}files/bots_sigcse2014_poster.pdf)*, poster at SIGCSE 2014, March 7, 2014
  * *[AP Computer Science Principles Resource Development]({{site.baseurl}}files/stars_poster_bjc_moodle.pdf)*, poster at STARS Celebration 2013, August 16, 2013
