@@ -120,6 +120,7 @@ Slides are provided if available - please note that unless specifically marked, 
 
 Posters
 -------
+ * Elizabeth Frasch, **Barry Peddycord III**, Jennifer Albert, Tiffany Barnes. *[Evaluating Computing Knowledge For BJC]({{ site.baseurl }}files/reu_poster_bjc_2014.pdf)*.
  * **Barry Peddycord III**, Andrew Hicks, Irena Rindos, Christopher Simmons, Tiffany Barnes. *[A Comparison of Two Approaches for Hint Generation in Programming Tutors]({{ site.baseurl }}files/bots_sigcse2014_poster.pdf)*.
  * Veronica Catete, Leslie Keller, **Barry Peddycord III**. *[AP Computer Science Principles Resource Development]({{site.baseurl}}files/stars_poster_bjc_moodle.pdf)*.
  * **Barry Peddycord III**, Tiffany Barnes. *[AP Computer Science Principles Training]({{site.baseurl}}files/stars_poster_bjc_training.pdf)*.
