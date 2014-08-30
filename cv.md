@@ -72,6 +72,7 @@ For more information, visit my [teaching portfolio]({{ site.baseurl }}teaching).
 Service and Leadership
 ----------------------
 ### Current
+ * [NC State Linux Users Group](http://lug.ncsu.edu), Advisor, since Fall 2014
  * [NC State University Graduate Student Association](http://ugsa.ncsu.edu), Vice President of Communications, since Fall 2013
  * [NC State Student Centers Board of Directors](http://www.ncsu.edu/student_center/bod/), UGSA seat, since Fall 2013
  * [NC State University Computer Science Graduate Student Association](http://ncsu.orgsync.com/org/cscgsa), Treasurer, since Fall 2014
