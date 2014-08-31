@@ -24,7 +24,8 @@ Education
 
 Employment
 ----------
- * Teaching Assistant, August 2012 - Present, NC State University, Department of Computer Science
+ * Research Assistant, May 2014 - Present, NC State University, Department of Computer Science
+ * Teaching Assistant, August 2012 - May 2014, NC State University, Department of Computer Science
  * Research Assistant under [Dr. Peng Ning](http://discovery.csc.ncsu.edu/), May 2011 - August 2012, NC State University, Department of Computer Science
  * EOS Computer Lab Help Desk, June 2011 - August 2011, NC State University, [Information Technology and Engineering Computer Services](http://www.itecs.ncsu.edu/)
  * Undergraduate Research Assistant under [Dr. Matthias Stallmann](http://people.engr.ncsu.edu/mfms/) October 2009 - May 2010, NC State University, Department of Computer Science
