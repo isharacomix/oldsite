@@ -150,6 +150,7 @@ Memberships and Affiliations
 
 Awards, Recognitions, Certifications
 ------------------------------------
+ * *[2014-2015 PhD Lab in Digital Knowledge Scholar](http://sites.fhi.duke.edu/phdlab/)*
  * *Preparing the Professoriate*, June 2014
  * *Certificate of Accomplishment in Teaching*, December 2013
  * Nominated for University Graduate Student Association *Outstanding TA Award*, 2013
