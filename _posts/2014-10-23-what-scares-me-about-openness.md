@@ -4,7 +4,7 @@ title: What scares me about openness?
 tags: blog
 ---
 
-A while back, I engaged in a short conversation on Twitter about the definition of a "paper" in the academic sense of the word. After some back and forth, [he asked me something](https://twitter.com/ironfroggy/status/483445051222392832) that definitely made me stop and think for a bit. 
+A while back, I engaged in a short conversation on Twitter with my friend [@ironfroggy](http://twitter.com/ironfroggy) about the definition of a "paper" in the academic sense of the word. After some back and forth, [he asked me something](https://twitter.com/ironfroggy/status/483445051222392832) that definitely made me stop and think for a bit. 
 
 > as an academic yourself, would you find accessible discourse somehow threatening to credibility or your path?
 
