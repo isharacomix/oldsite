@@ -99,6 +99,7 @@ Presentations and Talks
 -----------------------
  * *[Generating Hints for Programming Problems Using Intermediate Output]({{site.baseurl}}files/hints_edm2014.pdf)*. presentation at EDM 2014, July 7, 2014.
  * *Open Source Tools in the Classroom*, presentation at Southeast Linux Fest 2014, June 22, 2014
+ * *Open Learning, Open Access and the Digital Divide*, panel at HASTAC 2014 in Lima Peru, April 24
  * *[A Comparison of Two Approaches for Hint Generation in Programming Tutors]({{ site.baseurl }}files/bots_sigcse2014_poster.pdf)*, poster at SIGCSE 2014, March 7, 2014
  * *[AP Computer Science Principles Resource Development]({{site.baseurl}}files/stars_poster_bjc_moodle.pdf)*, poster at STARS Celebration 2013, August 16, 2013
  * *[8-bit Game Programming with the NES]({{site.baseurl}}files/8bitmooc_stars2013.pdf)*, workshop at STARS Celebration 2013, August 16, 2013
