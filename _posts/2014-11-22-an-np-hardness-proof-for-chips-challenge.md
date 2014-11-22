@@ -30,7 +30,7 @@ Unfortunately, in Chip's Challenge, we don't have enough different kinds of keys
 
 Clause Gadget
 -------------
-![Clauses]{{ site.baseurl }}img/nphard_clause.png)
+![Clauses]({{ site.baseurl }}img/nphard_clause.png)
 
 The way we distinguish from True and False is by using different traps. It might help to read this one from right to left. When Chip starts, he can either pick up a set of Fire Boots or Water Flippers. The fire boots (True) protect him from burning to a crisp in a fireplace, while the water flippers (False) protect him from drowning when he falls in a pool. The three vertical alleyways on the right each correspond to a variable and whether or not it's being negated. When you have the right kind of shoes, you can safely walk over the trap and pick up the yellow key to open the yellow door at the top of the hallway.
 
@@ -40,7 +40,7 @@ That's the **thief**. What he does is steal your shoes, stopping Chip from going
 
 Variable and Crossover Gadget
 -----------------------------
-![Crossover]{{ site.baseurl }}img/nphard_crossover.png)
+![Crossover]({{ site.baseurl }}img/nphard_crossover.png)
 
 Let's show a bit more of the stage. Up at the top, we see where Chip is required to pick True or False for the current variable. One you pick a shoe, you get forced down the moving platform and channeled into the a corridor. This corridor goes under the clauses, and when you get to a clause that you're allowed to move upward to, you can cross the trap and unlock the yellow door.
 
@@ -50,7 +50,7 @@ After completing all of the clauses, you go all the way up the right corridor an
 
 Finish Gadget
 -------------
-![Finish]{{ site.baseurl }}img/nphard_finish.png)
+![Finish]({{ site.baseurl }}img/nphard_finish.png)
 
 Once we've done all of the variables, we meet a Thief for the last time, pick up a green key and press a button. Unlike the yellow keys, that can only open a single door, the green key doesn't go away when it's used. Once that button is pressed, the green-bordered wall turns into a floor and the green-bordered floors to the north turn into walls, forcing you to go left.
 
